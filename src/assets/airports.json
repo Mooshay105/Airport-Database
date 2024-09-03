@@ -1206,7 +1206,7 @@
 	{
 		"name": "Clayton J. Lloyd Airport",
 		"city": "The Valley",
-		"country": "CaribbeanAnguilla",
+		"country": "Anguilla",
 		"iata": "AXA",
 		"icao": "NULL FOR NOW"
 	},
@@ -9254,9 +9254,9 @@
 		"icao": "YPXM"
 	},
 	{
-		"name": "Cocos (Keeling) Islands Airport",
-		"city": "Cocos (Keeling) Islands",
-		"country": "Cocos (Keeling) Islands",
+		"name": "Cocos Islands Airport",
+		"city": "Cocos Islands",
+		"country": "Cocos Islands",
 		"iata": "CCK",
 		"icao": "YPCC"
 	},
