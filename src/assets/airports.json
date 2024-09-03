@@ -4754,7 +4754,7 @@
 	},
 	{
 		"name": "Macau Airport",
-		"city": "Taipa, Macau",
+		"city": "Taipa",
 		"country": "Macau",
 		"iata": "MFM",
 		"icao": "NULL FOR NOW"
@@ -7114,7 +7114,7 @@
 	{
 		"name": "Ercan Airport",
 		"city": "North Nicosia",
-		"country": "Cyprus",
+		"country": "Northern Cyprus",
 		"iata": "ECN",
 		"icao": "NULL FOR NOW"
 	},
