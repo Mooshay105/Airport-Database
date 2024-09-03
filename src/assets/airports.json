@@ -2,77 +2,77 @@
 	{
 		"name": "Houari Boumediene Airport",
 		"city": "Algiers",
-		"country": "AfricaNorthern AfricaAlgeria",
+		"country": "Algeria",
 		"iata": "ALG",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Rabah Bitat Airport",
 		"city": "Annaba",
-		"country": "AfricaNorthern AfricaAlgeria",
+		"country": "Algeria",
 		"iata": "AAE",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Batna Airport",
 		"city": "Batna",
-		"country": "AfricaNorthern AfricaAlgeria",
+		"country": "Algeria",
 		"iata": "BLJ",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Soummam Airport",
 		"city": "B\u00e9ja\u00efa",
-		"country": "AfricaNorthern AfricaAlgeria",
+		"country": "Algeria",
 		"iata": "BJA",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Chlef Airport",
 		"city": "Chlef",
-		"country": "AfricaNorthern AfricaAlgeria",
+		"country": "Algeria",
 		"iata": "CFK",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Mohamed Boudiaf Airport",
 		"city": "Constantine",
-		"country": "AfricaNorthern AfricaAlgeria",
+		"country": "Algeria",
 		"iata": "CZL",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Jijel Ferhat Abbas Airport",
 		"city": "Jijel",
-		"country": "AfricaNorthern AfricaAlgeria",
+		"country": "Algeria",
 		"iata": "GJL",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Oran Es Senia Airport",
 		"city": "Oran",
-		"country": "AfricaNorthern AfricaAlgeria",
+		"country": "Algeria",
 		"iata": "ORN",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Biskra Airport",
 		"city": "Oumache",
-		"country": "AfricaNorthern AfricaAlgeria",
+		"country": "Algeria",
 		"iata": "BSK",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Ain Arnat Airport",
 		"city": "S\u00e9tif",
-		"country": "AfricaNorthern AfricaAlgeria",
+		"country": "Algeria",
 		"iata": "QSF",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Messali El Hadj Airport",
 		"city": "Tlemcen",
-		"country": "AfricaNorthern AfricaAlgeria",
+		"country": "Algeria",
 		"iata": "TLM",
 		"icao": "NULL FOR NOW"
 	},
@@ -401,7 +401,7 @@
 	{
 		"name": "Banjul Airport",
 		"city": "Banjul",
-		"country": "The Gambia",
+		"country": "Gambia",
 		"iata": "BJL",
 		"icao": "NULL FOR NOW"
 	},
@@ -569,7 +569,7 @@
 	{
 		"name": "Saint Helena Airport",
 		"city": "Saint Helena",
-		"country": "Saint Helena, Ascension and Tristan da Cunha",
+		"country": "Saint Helena",
 		"iata": "HLE",
 		"icao": "NULL FOR NOW"
 	},
@@ -707,9 +707,9 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "S\u00e3o Tom\u00e9 Airport",
-		"city": "S\u00e3o Tom\u00e9",
-		"country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+		"name": "Sao Tome Airport",
+		"city": "Sao Tome",
+		"country": "Sao Tome and Principe",
 		"iata": "TMS",
 		"icao": "NULL FOR NOW"
 	},
@@ -3754,112 +3754,112 @@
 	{
 		"name": "Aktau Airport",
 		"city": "Aktau",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "SCO",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Aktobe Airport",
 		"city": "Aktobe",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "AKX",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Almaty Airport",
 		"city": "Almaty",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "ALA",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Atyrau Airport",
 		"city": "Atyrau",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "GUW",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Karaganda Airport",
 		"city": "Karaganda",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "KGF",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Kokshetau Airport",
 		"city": "Kokshetau",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "KOV",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Kostanay Airport",
 		"city": "Kostanay",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "KSN",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Kyzylorda Airport",
 		"city": "Kyzylorda",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "KZO",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Nursultan Nazarbayev Airport",
 		"city": "Astana",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "NQZ",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Oral Ak Zhol Airport",
 		"city": "Oral",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "URA",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Oskemen Airport",
 		"city": "Oskemen",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "UKK",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Pavlodar Airport",
 		"city": "Pavlodar",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "PWQ",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Petropavl Airport",
 		"city": "Petropavl",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "PPK",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Semey Airport",
 		"city": "Semey",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "PLX",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Shymkent Airport",
 		"city": "Shymkent",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "CIT",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Taraz Airport",
 		"city": "Taraz",
-		"country": "Central AsiaKazakhstan",
+		"country": "Kazakhstan",
 		"iata": "DMB",
 		"icao": "NULL FOR NOW"
 	},
@@ -6113,154 +6113,154 @@
 	{
 		"name": "Birmingham Airport",
 		"city": "Birmingham",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "BHX",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Bournemouth Airport",
 		"city": "Bournemouth",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "BOH",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Bristol Airport",
 		"city": "Bristol",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "BRS",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Cardiff Airport",
 		"city": "Cardiff",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "CWL",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "East Midlands Airport",
 		"city": "Nottingham",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "EMA",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Exeter Airport",
 		"city": "Exeter",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "EXT",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Humberside Airport",
 		"city": "Hull",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "HUY",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Leeds Bradford Airport",
 		"city": "Leeds/Bradford",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "LBA",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Liverpool John Lennon Airport",
 		"city": "Liverpool",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "LPL",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "London City Airport",
 		"city": "London",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "LCY",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Manchester Airport",
 		"city": "Manchester",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "MAN",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Newcastle Airport",
 		"city": "Newcastle upon Tyne",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "NCL",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Newquay Airport",
 		"city": "Newquay",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "NQY",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Norwich Airport",
 		"city": "Norwich",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "NWI",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Southampton Airport",
 		"city": "Southampton",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "SOU",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Teesside Airport",
 		"city": "Middlesbrough",
-		"country": "United KingdomEngland and Wales",
+		"country": "United Kingdom",
 		"iata": "MME",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Aberdeen Airport",
 		"city": "Aberdeen",
-		"country": "Scotland",
+		"country": "United Kingdom",
 		"iata": "ABZ",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Edinburgh Airport",
 		"city": "Edinburgh",
-		"country": "Scotland",
+		"country": "United Kingdom",
 		"iata": "EDI",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Glasgow Airport",
 		"city": "Glasgow",
-		"country": "Scotland",
+		"country": "United Kingdom",
 		"iata": "GLA",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Inverness Airport",
 		"city": "Inverness",
-		"country": "Scotland",
+		"country": "United Kingdom",
 		"iata": "INV",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Belfast Airport",
 		"city": "Belfast",
-		"country": "Northern Ireland",
+		"country": "United Kingdom",
 		"iata": "BFS",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "City of Derry Airport",
 		"city": "Derry",
-		"country": "Northern Ireland",
+		"country": "United Kingdom",
 		"iata": "LDY",
 		"icao": "NULL FOR NOW"
 	},
