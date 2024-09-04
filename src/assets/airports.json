@@ -3227,8 +3227,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Presidente Castro Pinto Airport",
-		"city": "Jo\u00e3o Pessoa",
+		"name": "João Pessoa Airport",
+		"city": "João Pessoa",
 		"country": "Brazil",
 		"iata": "JPA",
 		"icao": "NULL FOR NOW"
@@ -3262,14 +3262,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Salgado Filho Porto Alegre Airport",
+		"name": "Porto Alegre Airport",
 		"city": "Porto Alegre",
 		"country": "Brazil",
 		"iata": "POA",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Governador Jorge Teixeira de Oliveira Airport",
+		"name": "Porto Velho Airport",
 		"city": "Porto Velho",
 		"country": "Brazil",
 		"iata": "PVH",
@@ -3290,28 +3290,28 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Rio de Janeiro/Gale\u00e3o Airport",
+		"name": "Rio de Janeiro Airport",
 		"city": "Rio de Janeiro",
 		"country": "Brazil",
 		"iata": "GIG",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Deputado Lu\u00eds Eduardo Magalh\u00e3es Airport",
+		"name": "Salvador Airport",
 		"city": "Salvador",
 		"country": "Brazil",
 		"iata": "SSA",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Marechal Cunha Machado Airport",
+		"name": "S\u00e3o Lu\u00eds Airport",
 		"city": "S\u00e3o Lu\u00eds",
 		"country": "Brazil",
 		"iata": "SLZ",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "S\u00e3o Paulo-Congonhas Airport",
+		"name": "S\u00e3o Paulo Airport",
 		"city": "S\u00e3o Paulo",
 		"country": "Brazil",
 		"iata": "CGH",
@@ -3332,14 +3332,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Eurico de Aguiar Salles Airport",
+		"name": "Vit\u00f3ria Airport",
 		"city": "Vit\u00f3ria",
 		"country": "Brazil",
 		"iata": "VIX",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Andr\u00e9s Sabella G\u00e1lvez Airport",
+		"name": "Antofagasta Airport",
 		"city": "Antofagasta",
 		"country": "Chile",
 		"iata": "ANF",
@@ -3360,14 +3360,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Presidente Carlos Ib\u00e1\u00f1ez del Campo Airport",
+		"name": "Punta Arenas Airport",
 		"city": "Punta Arenas",
 		"country": "Chile",
 		"iata": "PUQ",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Arturo Merino Ben\u00edtez Airport",
+		"name": "Santiago Airport",
 		"city": "Santiago",
 		"country": "Chile",
 		"iata": "SCL",
@@ -3402,14 +3402,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Gerardo Tobar L\u00f3pez Airport",
+		"name": "Buenaventura Airport",
 		"city": "Buenaventura",
 		"country": "Colombia",
 		"iata": "BUN",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Alfonso Bonilla Arag\u00f3n Airport",
+		"name": "Cali Airport",
 		"city": "Cali",
 		"country": "Colombia",
 		"iata": "CLO",
@@ -3444,14 +3444,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Gustavo Artunduaga Paredes Airport",
+		"name": "Florencia Airport",
 		"city": "Florencia",
 		"country": "Colombia",
 		"iata": "FLA",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Alfredo V\u00e1squez Cobo Airport",
+		"name": "Leticia Airport",
 		"city": "Leticia",
 		"country": "Colombia",
 		"iata": "LET",
@@ -3472,14 +3472,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Jos\u00e9 Mar\u00eda C\u00f3rdova Airport",
+		"name": "Medell\u00edn Airport",
 		"city": "Medell\u00edn",
 		"country": "Colombia",
 		"iata": "MDE",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Fabio Alberto Le\u00f3n Bentley Airport",
+		"name": "Mit\u00fa Airport",
 		"city": "Mit\u00fa",
 		"country": "Colombia",
 		"iata": "MVP",

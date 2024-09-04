@@ -11,12 +11,14 @@ function AirportCard({ airportName, city, country, iataCode, icaoCode, imgURL }:
 	return (
 		<div className="card">
 			<img src={imgURL} draggable="false" />
-			<h2>{airportName}</h2>
-			<p>
-				{city}, {country}
-			</p>
-			<p>IATA Code: {iataCode}</p>
-			<p>ICAO Code: {icaoCode}</p>
+			<div className="content">
+				<h2>{airportName}</h2>
+				<p>
+					{city}, {country}
+				</p>
+				<p>IATA Code: {iataCode}</p>
+				<p>ICAO Code: {icaoCode}</p>
+			</div>
 		</div>
 	);
 }
