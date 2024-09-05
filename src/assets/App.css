@@ -1,10 +1,7 @@
+/* Main Styles */
+
 * {
 	user-select: none;
-}
-
-a {
-	text-decoration: none;
-	color: #000000;
 }
 
 .notice-banner {
@@ -30,6 +27,8 @@ body {
 	height: 100vh;
 	width: 100vw;
 }
+
+/* Card Styles */
 
 .cards {
 	display: flex;
@@ -62,4 +61,14 @@ body {
 	width: 100%;
 	padding: 0.5rem;
 	text-align: center;
+}
+
+/* Misc Styles */
+
+a {
+	color: #000000;
+}
+
+a:hover {
+	font-weight: 800;
 }

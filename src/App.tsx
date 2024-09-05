@@ -14,7 +14,6 @@ function App() {
 				<div className="cards">
 					{airports.map((airport) => {
 						const imageUrl = imgURLs[airport.country as keyof typeof imgURLs];
-
 						return <AirportCard key={airport.iata} airportName={airport.name} city={airport.city} country={airport.country} iataCode={airport.iata} icaoCode={airport.icao} imgURL={imageUrl} />;
 					})}
 				</div>
