@@ -22,7 +22,7 @@
 	},
 	{
 		"name": "Soummam Airport",
-		"city": "B\u00e9ja\u00efa",
+		"city": "Béjaïa",
 		"country": "Algeria",
 		"iata": "BJA",
 		"icao": "NULL FOR NOW"
@@ -64,13 +64,13 @@
 	},
 	{
 		"name": "Ain Arnat Airport",
-		"city": "S\u00e9tif",
+		"city": "Sétif",
 		"country": "Algeria",
 		"iata": "QSF",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Zenata \u2013 Messali El Hadj Airport",
+		"name": "Zenata - Messali El Hadj Airport",
 		"city": "Tlemcen",
 		"country": "Algeria",
 		"iata": "TLM",
@@ -203,7 +203,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Agadir\u2013Al Massira Airport",
+		"name": "Agadir-Al Massira Airport",
 		"city": "Agadir",
 		"country": "Morocco",
 		"iata": "AGA",
@@ -217,7 +217,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "F\u00e8s\u2013Sa\u00efs Airport",
+		"name": "Fès-Saïs Airport",
 		"city": "Fes",
 		"country": "Morocco",
 		"iata": "FEZ",
@@ -245,7 +245,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Rabat\u2013Sal\u00e9 Airport",
+		"name": "Rabat-Salé Airport",
 		"city": "Rabat",
 		"country": "Morocco",
 		"iata": "RBA",
@@ -294,14 +294,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Djerba\u2013Zarzis International Airport",
+		"name": "Djerba-Zarzis International Airport",
 		"city": "Djerba",
 		"country": "Tunisia",
 		"iata": "DJE",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Enfidha\u2013Hammamet International Airport",
+		"name": "Enfidha-Hammamet International Airport",
 		"city": "Enfidha",
 		"country": "Tunisia",
 		"iata": "NBE",
@@ -315,28 +315,28 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Sfax\u2013Thyna International Airport",
+		"name": "Sfax-Thyna International Airport",
 		"city": "Sfax",
 		"country": "Tunisia",
 		"iata": "SFA",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Tabarka\u2013A\u00efn Draham International Airport",
+		"name": "Tabarka-Aïn Draham International Airport",
 		"city": "Tabarka",
 		"country": "Tunisia",
 		"iata": "TBJ",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Tozeur\u2013Nefta International Airport",
+		"name": "Tozeur-Nefta International Airport",
 		"city": "Tozeur",
 		"country": "Tunisia",
 		"iata": "TOE",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Tunis\u2013Carthage International Airport",
+		"name": "Tunis-Carthage International Airport",
 		"city": "Tunis",
 		"country": "Tunisia",
 		"iata": "TUN",
@@ -371,7 +371,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Am\u00edlcar Cabral International Airport",
+		"name": "Amílcar Cabral International Airport",
 		"city": "Sal Island",
 		"country": "Cape Verde",
 		"iata": "SID",
@@ -385,16 +385,16 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Ces\u00e1ria \u00c9vora Airport",
-		"city": "S\u00e3o Vicente",
+		"name": "Cesária Évora Airport",
+		"city": "São Vicente",
 		"country": "Cape Verde",
 		"iata": "VXE",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "F\u00e9lix-Houphou\u00ebt-Boigny International Airport",
+		"name": "Félix-Houphouët-Boigny International Airport",
 		"city": "Abidjan",
-		"country": "C\u00f4te d'Ivoire",
+		"country": "Côte d'Ivoire",
 		"iata": "ABJ",
 		"icao": "NULL FOR NOW"
 	},
@@ -483,7 +483,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Nouakchott\u2013Oumtounsy International Airport",
+		"name": "Nouakchott-Oumtounsy International Airport",
 		"city": "Nouakchott",
 		"country": "Mauritania",
 		"iata": "NKC",
@@ -588,8 +588,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Lom\u00e9\u2013Tokoin International Airport",
-		"city": "Lom\u00e9",
+		"name": "Lomé-Tokoin International Airport",
+		"city": "Lomé",
 		"country": "Togo",
 		"iata": "LFW",
 		"icao": "NULL FOR NOW"
@@ -616,8 +616,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Yaound\u00e9 Nsimalen International Airport",
-		"city": "Yaound\u00e9",
+		"name": "Yaoundé Nsimalen International Airport",
+		"city": "Yaoundé",
 		"country": "Cameroon",
 		"iata": "NSI",
 		"icao": "NULL FOR NOW"
@@ -693,7 +693,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "L\u00e9on-Mba International Airport",
+		"name": "Léon-Mba International Airport",
 		"city": "Libreville",
 		"country": "Gabon",
 		"iata": "LBV",
@@ -833,7 +833,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Djibouti\u2013Ambouli International Airport",
+		"name": "Djibouti-Ambouli International Airport",
 		"city": "Djibouti City",
 		"country": "Djibouti",
 		"iata": "JIB",
@@ -924,8 +924,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "T\u00f4lanaro Airport",
-		"city": "T\u00f4lanaro",
+		"name": "Tôlanaro Airport",
+		"city": "Tôlanaro",
 		"country": "Madagascar",
 		"iata": "FTU",
 		"icao": "NULL FOR NOW"
@@ -959,7 +959,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Dzaoudzi\u2013Pamandzi International Airport",
+		"name": "Dzaoudzi-Pamandzi International Airport",
 		"city": "Dzaoudzi",
 		"country": "Mayotte",
 		"iata": "DZA",
@@ -1017,7 +1017,7 @@
 	{
 		"name": "Roland Garros Airport",
 		"city": "Saint-Denis",
-		"country": "R\u00e9union",
+		"country": "Réunion",
 		"iata": "RUN",
 		"icao": "NULL FOR NOW"
 	},
@@ -1212,7 +1212,7 @@
 	},
 	{
 		"name": "V. C. Bird International Airport",
-		"city": "St. John\u2019s",
+		"city": "St. John’s",
 		"country": "Antigua and Barbuda",
 		"iata": "ANU",
 		"icao": "NULL FOR NOW"
@@ -1324,7 +1324,7 @@
 	},
 	{
 		"name": "Ignacio Agramonte International Airport",
-		"city": "Camag\u00fcey",
+		"city": "Camagüey",
 		"country": "Cuba",
 		"iata": "CMW",
 		"icao": "NULL FOR NOW"
@@ -1337,35 +1337,35 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Vilo Acu\u00f1a Airport",
+		"name": "Vilo Acuña Airport",
 		"city": "Cayo Largo del Sur",
 		"country": "Cuba",
 		"iata": "CYO",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Jaime Gonz\u00e1lez Airport",
+		"name": "Jaime González Airport",
 		"city": "Cienfuegos",
 		"country": "Cuba",
 		"iata": "CFG",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Jos\u00e9 Mart\u00ed International Airport",
+		"name": "José Martí International Airport",
 		"city": "Havana",
 		"country": "Cuba",
 		"iata": "HAV",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Frank Pa\u00eds Airport",
-		"city": "Holgu\u00edn",
+		"name": "Frank País Airport",
+		"city": "Holguín",
 		"country": "Cuba",
 		"iata": "HOG",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Abel Santamar\u00eda Airport",
+		"name": "Abel Santamaría Airport",
 		"city": "Santa Clara",
 		"country": "Cuba",
 		"iata": "SNU",
@@ -1379,28 +1379,28 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Juan Gualberto G\u00f3mez Airport",
+		"name": "Juan Gualberto Gómez Airport",
 		"city": "Varadero",
 		"country": "Cuba",
 		"iata": "VRA",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Cura\u00e7ao International Airport",
+		"name": "Curaçao International Airport",
 		"city": "Willemstad",
-		"country": "Cura\u00e7ao",
+		"country": "Curaçao",
 		"iata": "CUR",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Douglas\u2013Charles Airport",
+		"name": "Douglas-Charles Airport",
 		"city": "Roseau",
 		"country": "Dominica",
 		"iata": "DOM",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Mar\u00eda Montez International Airport",
+		"name": "María Montez International Airport",
 		"city": "Barahona",
 		"country": "Dominican Republic",
 		"iata": "BRX",
@@ -1421,14 +1421,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Saman\u00e1 El Catey International Airport",
+		"name": "Samaná El Catey International Airport",
 		"city": "Samana",
 		"country": "Dominican Republic",
 		"iata": "AZS",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Gregorio Luper\u00f3n International Airport",
+		"name": "Gregorio Luperón International Airport",
 		"city": "San Felipe de Puerto Plata",
 		"country": "Dominican Republic",
 		"iata": "POP",
@@ -1442,7 +1442,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Las Am\u00e9ricas International Airport",
+		"name": "Las Américas International Airport",
 		"city": "Santo Domingo",
 		"country": "Dominican Republic",
 		"iata": "SDQ",
@@ -1456,15 +1456,15 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Pointe-\u00e0-Pitre International Airport",
-		"city": "Pointe-\u00e0-Pitre",
+		"name": "Pointe-à-Pitre International Airport",
+		"city": "Pointe-à-Pitre",
 		"country": "Guadeloupe",
 		"iata": "PTP",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Cap-Ha\u00eftien International Airport",
-		"city": "Cap-Ha\u00eftien",
+		"name": "Cap-Haïtien International Airport",
+		"city": "Cap-Haïtien",
 		"country": "Haiti",
 		"iata": "CAP",
 		"icao": "NULL FOR NOW"
@@ -1491,7 +1491,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Martinique Aim\u00e9 C\u00e9saire International Airport",
+		"name": "Martinique Aimé Césaire International Airport",
 		"city": "Fort-de-France",
 		"country": "Martinique",
 		"iata": "FDF",
@@ -1505,14 +1505,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Rafael Hern\u00e1ndez Airport",
+		"name": "Rafael Hernández Airport",
 		"city": "Aguadilla",
 		"country": "Puerto Rico",
 		"iata": "BQN",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Luis Mu\u00f1oz Mar\u00edn International Airport",
+		"name": "Luis Muñoz Marín International Airport",
 		"city": "San Juan",
 		"country": "Puerto Rico",
 		"iata": "SJU",
@@ -1521,7 +1521,7 @@
 	{
 		"name": "Gustaf III Airport",
 		"city": "Saint Jean",
-		"country": "Saint Barth\u00e9lemy",
+		"country": "Saint Barthélemy",
 		"iata": "SBH",
 		"icao": "NULL FOR NOW"
 	},
@@ -1596,15 +1596,15 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Daniel Oduber Quir\u00f3s International Airport",
+		"name": "Daniel Oduber Quirós International Airport",
 		"city": "Liberia",
 		"country": "Costa Rica",
 		"iata": "LIR",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Juan Santamar\u00eda International Airport",
-		"city": "San Jos\u00e9",
+		"name": "Juan Santamaría International Airport",
+		"city": "San José",
 		"country": "Costa Rica",
 		"iata": "SJO",
 		"icao": "NULL FOR NOW"
@@ -1631,28 +1631,28 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Golos\u00f3n International Airport",
+		"name": "Golosón International Airport",
 		"city": "La Ceiba",
 		"country": "Honduras",
 		"iata": "LCE",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Juan Manuel G\u00e1lvez International Airport",
-		"city": "Roat\u00e1n",
+		"name": "Juan Manuel Gálvez International Airport",
+		"city": "Roatán",
 		"country": "Honduras",
 		"iata": "RTB",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Ram\u00f3n Villeda Morales International Airport",
+		"name": "Ramón Villeda Morales International Airport",
 		"city": "San Pedro Sula",
 		"country": "Honduras",
 		"iata": "SAP",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Toncont\u00edn International Airport",
+		"name": "Toncontín International Airport",
 		"city": "Tegucigalpa",
 		"country": "Honduras",
 		"iata": "TGU",
@@ -1687,7 +1687,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Bocas del Toro \"Isla Col\u00f3n\" International Airport",
+		"name": "Bocas del Toro \"Isla Colón\" International Airport",
 		"city": "Bocas del Toro",
 		"country": "Panama",
 		"iata": "BOC",
@@ -1695,7 +1695,7 @@
 	},
 	{
 		"name": "Enrique Malek International Airport",
-		"city": "David, Chiriqu\u00ed",
+		"city": "David, Chiriquí",
 		"country": "Panama",
 		"iata": "DAV",
 		"icao": "NULL FOR NOW"
@@ -1708,7 +1708,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Scarlett Mart\u00ednez International Airport",
+		"name": "Scarlett Martínez International Airport",
 		"city": "Rio Hato",
 		"country": "Panama",
 		"iata": "RIH",
@@ -1757,8 +1757,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Canc\u00fan International Airport",
-		"city": "Canc\u00fan",
+		"name": "Cancún International Airport",
+		"city": "Cancún",
 		"country": "Mexico",
 		"iata": "CUN",
 		"icao": "NULL FOR NOW"
@@ -1785,8 +1785,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Culiac\u00e1n International Airport",
-		"city": "Culiac\u00e1n",
+		"name": "Culiacán International Airport",
+		"city": "Culiacán",
 		"country": "Mexico",
 		"iata": "CUL",
 		"icao": "NULL FOR NOW"
@@ -1813,7 +1813,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Bah\u00edas de Huatulco International Airport",
+		"name": "Bahías de Huatulco International Airport",
 		"city": "Huatulco",
 		"country": "Mexico",
 		"iata": "HUX",
@@ -1827,8 +1827,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Baj\u00edo International Airport",
-		"city": "Le\u00f3n",
+		"name": "Bajío International Airport",
+		"city": "León",
 		"country": "Mexico",
 		"iata": "BJX",
 		"icao": "NULL FOR NOW"
@@ -1855,15 +1855,15 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Mazatl\u00e1n International Airport",
-		"city": "Mazatl\u00e1n",
+		"name": "Mazatlán International Airport",
+		"city": "Mazatlán",
 		"country": "Mexico",
 		"iata": "MZT",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "M\u00e9rida International Airport",
-		"city": "M\u00e9rida",
+		"name": "Mérida International Airport",
+		"city": "Mérida",
 		"country": "Mexico",
 		"iata": "MID",
 		"icao": "NULL FOR NOW"
@@ -1918,15 +1918,15 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Licenciado Gustavo D\u00edaz Ordaz International Airport",
+		"name": "Licenciado Gustavo Díaz Ordaz International Airport",
 		"city": "Puerto Vallarta",
 		"country": "Mexico",
 		"iata": "PVR",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Quer\u00e9taro Intercontinental Airport",
-		"city": "Quer\u00e9taro City",
+		"name": "Querétaro Intercontinental Airport",
+		"city": "Querétaro City",
 		"country": "Mexico",
 		"iata": "QRO",
 		"icao": "NULL FOR NOW"
@@ -1946,8 +1946,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "San Luis Potos\u00ed International Airport",
-		"city": "San Luis Potos\u00ed",
+		"name": "San Luis Potosí International Airport",
+		"city": "San Luis Potosí",
 		"country": "Mexico",
 		"iata": "SLP",
 		"icao": "NULL FOR NOW"
@@ -1974,8 +1974,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Torre\u00f3n International Airport",
-		"city": "Torre\u00f3n",
+		"name": "Torreón International Airport",
+		"city": "Torreón",
 		"country": "Mexico",
 		"iata": "TRC",
 		"icao": "NULL FOR NOW"
@@ -1988,8 +1988,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Tuxtla Guti\u00e9rrez International Airport",
-		"city": "Tuxtla Guti\u00e9rrez",
+		"name": "Tuxtla Gutiérrez International Airport",
+		"city": "Tuxtla Gutiérrez",
 		"country": "Mexico",
 		"iata": "TGZ",
 		"icao": "NULL FOR NOW"
@@ -2065,7 +2065,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Hartsfield\u2013Jackson Atlanta International Airport",
+		"name": "Hartsfield-Jackson Atlanta International Airport",
 		"city": "Atlanta",
 		"country": "United States",
 		"iata": "ATL",
@@ -2079,7 +2079,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Austin\u2013Bergstrom International Airport",
+		"name": "Austin-Bergstrom International Airport",
 		"city": "Austin",
 		"country": "United States",
 		"iata": "AUS",
@@ -2114,7 +2114,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Birmingham\u2013Shuttlesworth International Airport",
+		"name": "Birmingham-Shuttlesworth International Airport",
 		"city": "Birmingham",
 		"country": "United States",
 		"iata": "BHM",
@@ -2282,7 +2282,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Fort Lauderdale\u2013Hollywood International Airport",
+		"name": "Fort Lauderdale-Hollywood International Airport",
 		"city": "Fort Lauderdale",
 		"country": "United States",
 		"iata": "FLL",
@@ -2317,7 +2317,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Green Bay\u2013Austin Straubel International Airport",
+		"name": "Green Bay-Austin Straubel International Airport",
 		"city": "Green Bay",
 		"country": "United States",
 		"iata": "GRB",
@@ -2387,7 +2387,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Jackson\u2013Medgar Wiley Evers International Airport",
+		"name": "Jackson-Medgar Wiley Evers International Airport",
 		"city": "Jackson",
 		"country": "United States",
 		"iata": "JAN",
@@ -2534,7 +2534,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Minneapolis\u2013Saint Paul International Airport",
+		"name": "Minneapolis-Saint Paul International Airport",
 		"city": "Minneapolis/St. Paul",
 		"country": "United States",
 		"iata": "MSP",
@@ -2681,7 +2681,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Phoenix\u2013Mesa Gateway Airport",
+		"name": "Phoenix-Mesa Gateway Airport",
 		"city": "Phoenix/Mesa",
 		"country": "United States",
 		"iata": "AZA",
@@ -2723,14 +2723,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Raleigh\u2013Durham International Airport",
+		"name": "Raleigh-Durham International Airport",
 		"city": "Raleigh",
 		"country": "United States",
 		"iata": "RDU",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Reno\u2013Tahoe International Airport",
+		"name": "Reno-Tahoe International Airport",
 		"city": "Reno",
 		"country": "United States",
 		"iata": "RNO",
@@ -2821,7 +2821,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Sarasota\u2013Bradenton International Airport",
+		"name": "Sarasota-Bradenton International Airport",
 		"city": "Sarasota/Bradenton",
 		"country": "United States",
 		"iata": "SRQ",
@@ -2870,7 +2870,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "St. Pete\u2013Clearwater International Airport",
+		"name": "St. Pete-Clearwater International Airport",
 		"city": "St. Petersburg",
 		"country": "United States",
 		"iata": "PIE",
@@ -2961,8 +2961,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Ingeniero Aeron\u00e1utico Ambrosio L.V. Taravella International Airport",
-		"city": "C\u00f3rdoba",
+		"name": "Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport",
+		"city": "Córdoba",
 		"country": "Argentina",
 		"iata": "COR",
 		"icao": "NULL FOR NOW"
@@ -3003,7 +3003,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "\u00c1stor Piazzolla International Airport",
+		"name": "Ástor Piazzolla International Airport",
 		"city": "Mar del Plata",
 		"country": "Argentina",
 		"iata": "MDQ",
@@ -3017,22 +3017,22 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Presidente Per\u00f3n International Airport",
-		"city": "Neuqu\u00e9n",
+		"name": "Presidente Perón International Airport",
+		"city": "Neuquén",
 		"country": "Argentina",
 		"iata": "NQN",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Libertador General Jos\u00e9 de San Mart\u00edn Airport",
+		"name": "Libertador General José de San Martín Airport",
 		"city": "Posadas",
 		"country": "Argentina",
 		"iata": "PSS",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Cataratas del Iguaz\u00fa International Airport",
-		"city": "Puerto Iguaz\u00fa",
+		"name": "Cataratas del Iguazú International Airport",
+		"city": "Puerto Iguazú",
 		"country": "Argentina",
 		"iata": "IGR",
 		"icao": "NULL FOR NOW"
@@ -3045,42 +3045,42 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Piloto Civil Norberto Fern\u00e1ndez International Airport",
-		"city": "R\u00edo Gallegos",
+		"name": "Piloto Civil Norberto Fernández International Airport",
+		"city": "Río Gallegos",
 		"country": "Argentina",
 		"iata": "RGL",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Hermes Quijada International Airport",
-		"city": "R\u00edo Grande",
+		"city": "Río Grande",
 		"country": "Argentina",
 		"iata": "RGA",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Rosario \u2013 Islas Malvinas International Airport",
+		"name": "Rosario - Islas Malvinas International Airport",
 		"city": "Rosario",
 		"country": "Argentina",
 		"iata": "ROS",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Mart\u00edn Miguel de G\u00fcemes International Airport",
+		"name": "Martín Miguel de Güemes International Airport",
 		"city": "Salta",
 		"country": "Argentina",
 		"iata": "SLA",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Teniente Benjam\u00edn Matienzo International Airport",
-		"city": "San Miguel de Tucum\u00e1n",
+		"name": "Teniente Benjamín Matienzo International Airport",
+		"city": "San Miguel de Tucumán",
 		"country": "Argentina",
 		"iata": "TUC",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Gobernador Horacio Guzm\u00e1n International Airport",
+		"name": "Gobernador Horacio Guzmán International Airport",
 		"city": "San Salvador de Jujuy",
 		"country": "Argentina",
 		"iata": "JUJ",
@@ -3094,8 +3094,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Termas de R\u00edo Hondo International Airport",
-		"city": "Termas de R\u00edo Hondo",
+		"name": "Termas de Río Hondo International Airport",
+		"city": "Termas de Río Hondo",
 		"country": "Argentina",
 		"iata": "RHD",
 		"icao": "NULL FOR NOW"
@@ -3108,7 +3108,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Ushuaia \u2013 Malvinas Argentinas International Airport",
+		"name": "Ushuaia - Malvinas Argentinas International Airport",
 		"city": "Ushuaia",
 		"country": "Argentina",
 		"iata": "USH",
@@ -3143,8 +3143,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Val de C\u00e3es International Airport",
-		"city": "Bel\u00e9m",
+		"name": "Val de Cães International Airport",
+		"city": "Belém",
 		"country": "Brazil",
 		"iata": "BEL",
 		"icao": "NULL FOR NOW"
@@ -3164,8 +3164,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Bras\u00edlia International Airport",
-		"city": "Bras\u00edlia",
+		"name": "Brasília International Airport",
+		"city": "Brasília",
 		"country": "Brazil",
 		"iata": "BSB",
 		"icao": "NULL FOR NOW"
@@ -3186,7 +3186,7 @@
 	},
 	{
 		"name": "Marechal Rondon International Airport",
-		"city": "Cuiab\u00e1",
+		"city": "Cuiabá",
 		"country": "Brazil",
 		"iata": "CGB",
 		"icao": "NULL FOR NOW"
@@ -3199,8 +3199,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Herc\u00edlio Luz International Airport",
-		"city": "Florian\u00f3polis",
+		"name": "Hercílio Luz International Airport",
+		"city": "Florianópolis",
 		"country": "Brazil",
 		"iata": "FLN",
 		"icao": "NULL FOR NOW"
@@ -3213,29 +3213,29 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Foz do Igua\u00e7u International Airport",
-		"city": "Foz do Igua\u00e7u",
+		"name": "Foz do Iguaçu International Airport",
+		"city": "Foz do Iguaçu",
 		"country": "Brazil",
 		"iata": "IGU",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Santa Genoveva Airport",
-		"city": "Goi\u00e2nia",
+		"city": "Goiânia",
 		"country": "Brazil",
 		"iata": "GYN",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Presidente Castro Pinto International Airport",
-		"city": "Jo\u00e3o Pessoa",
+		"city": "João Pessoa",
 		"country": "Brazil",
 		"iata": "JPA",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Zumbi dos Palmares International Airport",
-		"city": "Macei\u00f3",
+		"city": "Maceió",
 		"country": "Brazil",
 		"iata": "MCZ",
 		"icao": "NULL FOR NOW"
@@ -3290,14 +3290,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Rio de Janeiro/Gale\u00e3o International Airport",
+		"name": "Rio de Janeiro/Galeão International Airport",
 		"city": "Rio de Janeiro",
 		"country": "Brazil",
 		"iata": "GIG",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Deputado Lu\u00eds Eduardo Magalh\u00e3es International Airport",
+		"name": "Deputado Luís Eduardo Magalhães International Airport",
 		"city": "Salvador",
 		"country": "Brazil",
 		"iata": "SSA",
@@ -3305,14 +3305,14 @@
 	},
 	{
 		"name": "Marechal Cunha Machado International Airport",
-		"city": "S\u00e3o Lu\u00eds",
+		"city": "São Luís",
 		"country": "Brazil",
 		"iata": "SLZ",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "S\u00e3o Paulo\u2013Congonhas Airport",
-		"city": "S\u00e3o Paulo",
+		"name": "São Paulo-Congonhas Airport",
+		"city": "São Paulo",
 		"country": "Brazil",
 		"iata": "CGH",
 		"icao": "NULL FOR NOW"
@@ -3325,21 +3325,21 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Uberl\u00e2ndia Airport",
-		"city": "Uberl\u00e2ndia",
+		"name": "Uberlândia Airport",
+		"city": "Uberlândia",
 		"country": "Brazil",
 		"iata": "UDI",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Eurico de Aguiar Salles Airport",
-		"city": "Vit\u00f3ria",
+		"city": "Vitória",
 		"country": "Brazil",
 		"iata": "VIX",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Andr\u00e9s Sabella G\u00e1lvez International Airport",
+		"name": "Andrés Sabella Gálvez International Airport",
 		"city": "Antofagasta",
 		"country": "Chile",
 		"iata": "ANF",
@@ -3347,7 +3347,7 @@
 	},
 	{
 		"name": "Carriel Sur International Airport",
-		"city": "Concepci\u00f3n",
+		"city": "Concepción",
 		"country": "Chile",
 		"iata": "CCP",
 		"icao": "NULL FOR NOW"
@@ -3360,21 +3360,21 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Presidente Carlos Ib\u00e1\u00f1ez del Campo International Airport",
+		"name": "Presidente Carlos Ibáñez del Campo International Airport",
 		"city": "Punta Arenas",
 		"country": "Chile",
 		"iata": "PUQ",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Arturo Merino Ben\u00edtez International Airport",
+		"name": "Arturo Merino Benítez International Airport",
 		"city": "Santiago",
 		"country": "Chile",
 		"iata": "SCL",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "El Ed\u00e9n International Airport",
+		"name": "El Edén International Airport",
 		"city": "Armenia",
 		"country": "Colombia",
 		"iata": "AXM",
@@ -3389,7 +3389,7 @@
 	},
 	{
 		"name": "El Dorado International Airport",
-		"city": "Bogot\u00e1",
+		"city": "Bogotá",
 		"country": "Colombia",
 		"iata": "BOG",
 		"icao": "NULL FOR NOW"
@@ -3402,21 +3402,21 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Gerardo Tobar L\u00f3pez Airport",
+		"name": "Gerardo Tobar López Airport",
 		"city": "Buenaventura",
 		"country": "Colombia",
 		"iata": "BUN",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Alfonso Bonilla Arag\u00f3n International Airport",
+		"name": "Alfonso Bonilla Aragón International Airport",
 		"city": "Cali",
 		"country": "Colombia",
 		"iata": "CLO",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Rafael N\u00fa\u00f1ez International Airport",
+		"name": "Rafael Núñez International Airport",
 		"city": "Cartagena",
 		"country": "Colombia",
 		"iata": "CTG",
@@ -3424,14 +3424,14 @@
 	},
 	{
 		"name": "Camilo Daza International Airport",
-		"city": "C\u00facuta",
+		"city": "Cúcuta",
 		"country": "Colombia",
 		"iata": "CUC",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Perales Airport",
-		"city": "Ibagu\u00e9",
+		"city": "Ibagué",
 		"country": "Colombia",
 		"iata": "IBE",
 		"icao": "NULL FOR NOW"
@@ -3451,7 +3451,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Alfredo V\u00e1squez Cobo International Airport",
+		"name": "Alfredo Vásquez Cobo International Airport",
 		"city": "Leticia",
 		"country": "Colombia",
 		"iata": "LET",
@@ -3472,22 +3472,22 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Jos\u00e9 Mar\u00eda C\u00f3rdova International Airport",
-		"city": "Medell\u00edn",
+		"name": "José María Córdova International Airport",
+		"city": "Medellín",
 		"country": "Colombia",
 		"iata": "MDE",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Fabio Alberto Le\u00f3n Bentley Airport",
-		"city": "Mit\u00fa",
+		"name": "Fabio Alberto León Bentley Airport",
+		"city": "Mitú",
 		"country": "Colombia",
 		"iata": "MVP",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Los Garzones Airport",
-		"city": "Monter\u00eda",
+		"city": "Montería",
 		"country": "Colombia",
 		"iata": "MTR",
 		"icao": "NULL FOR NOW"
@@ -3500,22 +3500,22 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Antonio Nari\u00f1o Airport",
+		"name": "Antonio Nariño Airport",
 		"city": "Pasto",
 		"country": "Colombia",
 		"iata": "PSO",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Mateca\u00f1a International Airport",
+		"name": "Matecaña International Airport",
 		"city": "Pereira",
 		"country": "Colombia",
 		"iata": "PEI",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Guillermo Le\u00f3n Valencia Airport",
-		"city": "Popay\u00e1n",
+		"name": "Guillermo León Valencia Airport",
+		"city": "Popayán",
 		"country": "Colombia",
 		"iata": "PPN",
 		"icao": "NULL FOR NOW"
@@ -3528,8 +3528,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "El Cara\u00f1o Airport",
-		"city": "Quibd\u00f3",
+		"name": "El Caraño Airport",
+		"city": "Quibdó",
 		"country": "Colombia",
 		"iata": "UIB",
 		"icao": "NULL FOR NOW"
@@ -3543,14 +3543,14 @@
 	},
 	{
 		"name": "Gustavo Rojas Pinilla International Airport",
-		"city": "San Andr\u00e9s",
+		"city": "San Andrés",
 		"country": "Colombia",
 		"iata": "ADZ",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Golfo de Morrosquillo Airport",
-		"city": "Tol\u00fa",
+		"city": "Tolú",
 		"country": "Colombia",
 		"iata": "TLU",
 		"icao": "NULL FOR NOW"
@@ -3563,7 +3563,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Sim\u00f3n Bol\u00edvar International Airport",
+		"name": "Simón Bolívar International Airport",
 		"city": "Santa Marta",
 		"country": "Colombia",
 		"iata": "SMR",
@@ -3577,7 +3577,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Alfonso L\u00f3pez Pumarejo Airport",
+		"name": "Alfonso López Pumarejo Airport",
 		"city": "Valledupar",
 		"country": "Colombia",
 		"iata": "VUP",
@@ -3591,7 +3591,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "El Alcarav\u00e1n Airport",
+		"name": "El Alcaraván Airport",
 		"city": "Yopal",
 		"country": "Colombia",
 		"iata": "EYP",
@@ -3612,7 +3612,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Jos\u00e9 Joaqu\u00edn de Olmedo International Airport",
+		"name": "José Joaquín de Olmedo International Airport",
 		"city": "Guayaquil",
 		"country": "Ecuador",
 		"iata": "GYE",
@@ -3641,7 +3641,7 @@
 	},
 	{
 		"name": "Teniente Coronel Luis a Mantilla International Airport",
-		"city": "Tulc\u00e1n",
+		"city": "Tulcán",
 		"country": "Ecuador",
 		"iata": "TUA",
 		"icao": "NULL FOR NOW"
@@ -3654,7 +3654,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Cayenne \u2013 F\u00e9lix Ebou\u00e9 Airport",
+		"name": "Cayenne - Félix Eboué Airport",
 		"city": "Cayenne",
 		"country": "French Guiana",
 		"iata": "CAY",
@@ -3669,20 +3669,20 @@
 	},
 	{
 		"name": "Silvio Pettirossi International Airport",
-		"city": "Asunci\u00f3n",
+		"city": "Asunción",
 		"country": "Paraguay",
 		"iata": "ASU",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Guaran\u00ed International Airport",
+		"name": "Guaraní International Airport",
 		"city": "Ciudad del Este",
 		"country": "Paraguay",
 		"iata": "AGT",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Rodr\u00edguez Ball\u00f3n International Airport",
+		"name": "Rodríguez Ballón International Airport",
 		"city": "Arequipa",
 		"country": "Peru",
 		"iata": "AQP",
@@ -3696,7 +3696,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Jorge Ch\u00e1vez International Airport",
+		"name": "Jorge Chávez International Airport",
 		"city": "Lima",
 		"country": "Peru",
 		"iata": "LIM",
@@ -3717,7 +3717,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Capit\u00e1n de Corbeta Carlos A. Curbelo International Airport",
+		"name": "Capitán de Corbeta Carlos A. Curbelo International Airport",
 		"city": "Punta del Este",
 		"country": "Uruguay",
 		"iata": "PDP",
@@ -3731,7 +3731,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Sim\u00f3n Bol\u00edvar International Airport",
+		"name": "Simón Bolívar International Airport",
 		"city": "Caracas",
 		"country": "Venezuela",
 		"iata": "CCS",
@@ -3899,8 +3899,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Da\u015foguz Airport",
-		"city": "Da\u015foguz",
+		"name": "Daşoguz Airport",
+		"city": "Daşoguz",
 		"country": "Turkmenistan",
 		"iata": "TAZ",
 		"icao": "NULL FOR NOW"
@@ -3921,7 +3921,7 @@
 	},
 	{
 		"name": "Turkmenabat International Airport",
-		"city": "T\u00fcrkmenabat",
+		"city": "Türkmenabat",
 		"country": "Turkmenistan",
 		"iata": "CRZ",
 		"icao": "NULL FOR NOW"
@@ -4096,7 +4096,7 @@
 	},
 	{
 		"name": "Oita Airport",
-		"city": "\u014cita",
+		"city": "Ōita",
 		"country": "Japan",
 		"iata": "OIT",
 		"icao": "NULL FOR NOW"
@@ -4564,8 +4564,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "\u00dcr\u00fcmqi Diwopu International Airport",
-		"city": "\u00dcr\u00fcmqi",
+		"name": "Ürümqi Diwopu International Airport",
+		"city": "Ürümqi",
 		"country": "China",
 		"iata": "URC",
 		"icao": "NULL FOR NOW"
@@ -4873,7 +4873,7 @@
 	},
 	{
 		"name": "Velana International Airport",
-		"city": "Mal\u00e9",
+		"city": "Malé",
 		"country": "Maldives",
 		"iata": "MLE",
 		"icao": "NULL FOR NOW"
@@ -5334,7 +5334,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Mactan\u2013Cebu International Airport",
+		"name": "Mactan-Cebu International Airport",
 		"city": "Lapu-Lapu City",
 		"country": "Philippines",
 		"iata": "CEB",
@@ -5390,7 +5390,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Bohol\u2013Panglao International Airport",
+		"name": "Bohol-Panglao International Airport",
 		"city": "Panglao Island",
 		"country": "Philippines",
 		"iata": "TAG",
@@ -5496,49 +5496,49 @@
 	},
 	{
 		"name": "Da Nang International Airport",
-		"city": "\u0110\u00e0 N\u1eb5ng",
+		"city": "Đà Nẵng",
 		"country": "Vietnam",
 		"iata": "DAD",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Noi Bai International Airport",
-		"city": "H\u00e0 N\u1ed9i",
+		"city": "Hà Nội",
 		"country": "Vietnam",
 		"iata": "HAN",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Tan Son Nhat International Airport",
-		"city": "H\u1ed3 Ch\u00ed Minh City",
+		"city": "Hồ Chí Minh City",
 		"country": "Vietnam",
 		"iata": "SGN",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Can Tho International Airport",
-		"city": "C\u1ea7n Th\u01a1",
+		"city": "Cần Thơ",
 		"country": "Vietnam",
 		"iata": "VCA",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Cat Bi International Airport",
-		"city": "H\u1ea3i Ph\u00f2ng",
+		"city": "Hải Phòng",
 		"country": "Vietnam",
 		"iata": "HPH",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Phu Bai International Airport",
-		"city": "Hu\u1ebf",
+		"city": "Huế",
 		"country": "Vietnam",
 		"iata": "HUI",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Phu Quoc International Airport",
-		"city": "Ph\u00fa Qu\u1ed1c",
+		"city": "Phú Quốc",
 		"country": "Vietnam",
 		"iata": "PQC",
 		"icao": "NULL FOR NOW"
@@ -5552,14 +5552,14 @@
 	},
 	{
 		"name": "Chu Lai Airport",
-		"city": "Qu\u1ea3ng Nam",
+		"city": "Quảng Nam",
 		"country": "Vietnam",
 		"iata": "VCL",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Van Don International Airport",
-		"city": "V\u00e2n \u0110\u1ed3n",
+		"city": "Vân Đồn",
 		"country": "Vietnam",
 		"iata": "VDO",
 		"icao": "NULL FOR NOW"
@@ -5887,7 +5887,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Beirut\u2013Rafic Hariri International Airport",
+		"name": "Beirut-Rafic Hariri International Airport",
 		"city": "Beirut",
 		"country": "Lebanon",
 		"iata": "BEY",
@@ -6286,14 +6286,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Li\u00e8ge Airport",
-		"city": "Li\u00e8ge",
+		"name": "Liège Airport",
+		"city": "Liège",
 		"country": "Belgium",
 		"iata": "LGG",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Ostend\u2013Bruges International Airport",
+		"name": "Ostend-Bruges International Airport",
 		"city": "Ostend/Bruges",
 		"country": "Belgium",
 		"iata": "OST",
@@ -6314,22 +6314,22 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Beauvais\u2013Till\u00e9 Airport",
+		"name": "Beauvais-Tillé Airport",
 		"city": "Beauvais",
 		"country": "France",
 		"iata": "BVA",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Bergerac Dordogne P\u00e9rigord Airport",
+		"name": "Bergerac Dordogne Périgord Airport",
 		"city": "Bergerac",
 		"country": "France",
 		"iata": "EGC",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "B\u00e9ziers Cap d'Agde Airport",
-		"city": "B\u00e9ziers",
+		"name": "Béziers Cap d'Agde Airport",
+		"city": "Béziers",
 		"country": "France",
 		"iata": "BZR",
 		"icao": "NULL FOR NOW"
@@ -6342,7 +6342,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Bordeaux\u2013M\u00e9rignac Airport",
+		"name": "Bordeaux-Mérignac Airport",
 		"city": "Bordeaux",
 		"country": "France",
 		"iata": "BOD",
@@ -6363,42 +6363,42 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Ch\u00e2lons Vatry Airport",
-		"city": "Ch\u00e2lons-en-Champagne",
+		"name": "Châlons Vatry Airport",
+		"city": "Châlons-en-Champagne",
 		"country": "France",
 		"iata": "XCR",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Chamb\u00e9ry Airport",
-		"city": "Chamb\u00e9ry",
+		"name": "Chambéry Airport",
+		"city": "Chambéry",
 		"country": "France",
 		"iata": "CMF",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Dinard\u2013Pleurtuit\u2013Saint-Malo Airport",
+		"name": "Dinard-Pleurtuit-Saint-Malo Airport",
 		"city": "Dinard",
 		"country": "France",
 		"iata": "DNR",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Figari\u2013Sud Corse Airport",
+		"name": "Figari-Sud Corse Airport",
 		"city": "Figari",
 		"country": "France",
 		"iata": "FSC",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Alpes\u2013Is\u00e8re Airport",
+		"name": "Alpes-Isère Airport",
 		"city": "Grenoble",
 		"country": "France",
 		"iata": "GNB",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "La Rochelle \u2013 \u00cele de R\u00e9 Airport",
+		"name": "La Rochelle - Île de Ré Airport",
 		"city": "La Rochelle",
 		"country": "France",
 		"iata": "LRH",
@@ -6412,14 +6412,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Limoges \u2013 Bellegarde Airport",
+		"name": "Limoges - Bellegarde Airport",
 		"city": "Limoges",
 		"country": "France",
 		"iata": "LIG",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Lyon\u2013Saint-Exup\u00e9ry Airport",
+		"name": "Lyon-Saint-Exupéry Airport",
 		"city": "Lyon",
 		"country": "France",
 		"iata": "LYS",
@@ -6447,15 +6447,15 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Nice C\u00f4te d'Azur Airport",
+		"name": "Nice Côte d'Azur Airport",
 		"city": "Nice",
 		"country": "France",
 		"iata": "NCE",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "N\u00eemes\u2013Al\u00e8s\u2013Camargue\u2013C\u00e9vennes Airport",
-		"city": "N\u00eemes",
+		"name": "Nîmes-Alès-Camargue-Cévennes Airport",
+		"city": "Nîmes",
 		"country": "France",
 		"iata": "FNI",
 		"icao": "NULL FOR NOW"
@@ -6468,36 +6468,36 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Pau Pyr\u00e9n\u00e9es Airport",
+		"name": "Pau Pyrénées Airport",
 		"city": "Pau",
 		"country": "France",
 		"iata": "PUF",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Perpignan\u2013Rivesaltes Airport",
+		"name": "Perpignan-Rivesaltes Airport",
 		"city": "Perpignan",
 		"country": "France",
 		"iata": "PGF",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Poitiers\u2013Biard Airport",
+		"name": "Poitiers-Biard Airport",
 		"city": "Poitiers",
 		"country": "France",
 		"iata": "PIS",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Rodez\u2013Aveyron Airport",
+		"name": "Rodez-Aveyron Airport",
 		"city": "Rodez",
 		"country": "France",
 		"iata": "RDZ",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Saint-\u00c9tienne\u2013Bouth\u00e9on Airport",
-		"city": "Saint-\u00c9tienne",
+		"name": "Saint-Étienne-Bouthéon Airport",
+		"city": "Saint-Étienne",
 		"country": "France",
 		"iata": "EBU",
 		"icao": "NULL FOR NOW"
@@ -6510,14 +6510,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Toulon\u2013Hy\u00e8res Airport",
+		"name": "Toulon-Hyères Airport",
 		"city": "Toulon",
 		"country": "France",
 		"iata": "TLN",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Toulouse\u2013Blagnac Airport",
+		"name": "Toulouse-Blagnac Airport",
 		"city": "Toulouse",
 		"country": "France",
 		"iata": "TLS",
@@ -6685,15 +6685,15 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Brno\u2013Tu\u0159any Airport",
+		"name": "Brno-Tuřany Airport",
 		"city": "Brno",
 		"country": "Czech Republic",
 		"iata": "BRQ",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "\u010cesk\u00e9 Bud\u011bjovice Airport",
-		"city": "\u010cesk\u00e9 Bud\u011bjovice",
+		"name": "České Budějovice Airport",
+		"city": "České Budějovice",
 		"country": "Czech Republic",
 		"iata": "JCL",
 		"icao": "NULL FOR NOW"
@@ -6706,14 +6706,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Leo\u0161 Jan\u00e1\u010dek Airport",
+		"name": "Leoš Janáček Airport",
 		"city": "Ostrava",
 		"country": "Czech Republic",
 		"iata": "OSR",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "V\u00e1clav Havel Airport",
+		"name": "Václav Havel Airport",
 		"city": "Prague",
 		"country": "Czech Republic",
 		"iata": "PRG",
@@ -6762,8 +6762,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "D\u00fcsseldorf Airport",
-		"city": "D\u00fcsseldorf",
+		"name": "Düsseldorf Airport",
+		"city": "Düsseldorf",
 		"country": "Germany",
 		"iata": "DUS",
 		"icao": "NULL FOR NOW"
@@ -6776,7 +6776,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "EuroAirport Basel\u2013Mulhouse\u2013Freiburg",
+		"name": "EuroAirport Basel-Mulhouse-Freiburg",
 		"city": "Freiburg im Breisgau",
 		"country": "Germany",
 		"iata": "EAP",
@@ -6811,8 +6811,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "L\u00fcbeck Airport",
-		"city": "L\u00fcbeck",
+		"name": "Lübeck Airport",
+		"city": "Lübeck",
 		"country": "Germany",
 		"iata": "LBC",
 		"icao": "NULL FOR NOW"
@@ -6867,22 +6867,22 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "H\u00e9v\u00edz-Balaton Airport",
-		"city": "H\u00e9v\u00edz",
+		"name": "Hévíz-Balaton Airport",
+		"city": "Hévíz",
 		"country": "Hungary",
 		"iata": "SOB",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Gy\u0151r-P\u00e9r International Airport",
-		"city": "Gy\u0151r",
+		"name": "Győr-Pér International Airport",
+		"city": "Győr",
 		"country": "Hungary",
 		"iata": "QGY",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "P\u00e9cs-Pog\u00e1ny International Airport",
-		"city": "P\u00e9cs",
+		"name": "Pécs-Pogány International Airport",
+		"city": "Pécs",
 		"country": "Hungary",
 		"iata": "QPJ",
 		"icao": "NULL FOR NOW"
@@ -6895,8 +6895,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Gda\u0144sk Lech Wa\u0142\u0119sa Airport",
-		"city": "Gda\u0144sk",
+		"name": "Gdańsk Lech Wałęsa Airport",
+		"city": "Gdańsk",
 		"country": "Poland",
 		"iata": "GDN",
 		"icao": "NULL FOR NOW"
@@ -6909,8 +6909,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Krak\u00f3w John Paul II International Airport",
-		"city": "Krak\u00f3w",
+		"name": "Kraków John Paul II International Airport",
+		"city": "Kraków",
 		"country": "Poland",
 		"iata": "KRK",
 		"icao": "NULL FOR NOW"
@@ -6923,8 +6923,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "\u0141\u00f3d\u017a W\u0142adys\u0142aw Reymont Airport",
-		"city": "\u0141\u00f3d\u017a",
+		"name": "Łódź Władysław Reymont Airport",
+		"city": "Łódź",
 		"country": "Poland",
 		"iata": "LCJ",
 		"icao": "NULL FOR NOW"
@@ -6937,21 +6937,21 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Pozna\u0144\u2013\u0141awica Airport",
-		"city": "Pozna\u0144",
+		"name": "Poznań-Ławica Airport",
+		"city": "Poznań",
 		"country": "Poland",
 		"iata": "POZ",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Rzesz\u00f3w\u2013Jasionka Airport",
-		"city": "Rzesz\u00f3w",
+		"name": "Rzeszów-Jasionka Airport",
+		"city": "Rzeszów",
 		"country": "Poland",
 		"iata": "RZE",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Solidarity Szczecin\u2013Goleni\u00f3w Airport",
+		"name": "Solidarity Szczecin-Goleniów Airport",
 		"city": "Szczecin",
 		"country": "Poland",
 		"iata": "SZZ",
@@ -6965,8 +6965,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Wroc\u0142aw Airport",
-		"city": "Wroc\u0142aw",
+		"name": "Wrocław Airport",
+		"city": "Wrocław",
 		"country": "Poland",
 		"iata": "WRO",
 		"icao": "NULL FOR NOW"
@@ -6979,15 +6979,15 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Ko\u0161ice International Airport",
-		"city": "Ko\u0161ice",
+		"name": "Košice International Airport",
+		"city": "Košice",
 		"country": "Slovakia",
 		"iata": "KSC",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Pie\u0161\u0165any Airport",
-		"city": "Pie\u0161\u0165any",
+		"name": "Piešťany Airport",
+		"city": "Piešťany",
 		"country": "Slovakia",
 		"iata": "PZY",
 		"icao": "NULL FOR NOW"
@@ -7000,8 +7000,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "\u017dilina Airport",
-		"city": "\u017dilina",
+		"name": "Žilina Airport",
+		"city": "Žilina",
 		"country": "Slovakia",
 		"iata": "ILZ",
 		"icao": "NULL FOR NOW"
@@ -7035,7 +7035,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "St. Gallen\u2013Altenrhein Airport",
+		"name": "St. Gallen-Altenrhein Airport",
 		"city": "St. Gallen",
 		"country": "Switzerland",
 		"iata": "ACH",
@@ -7043,14 +7043,14 @@
 	},
 	{
 		"name": "Zurich Airport",
-		"city": "Z\u00fcrich",
+		"city": "Zürich",
 		"country": "Switzerland",
 		"iata": "ZRH",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Bra\u010d Airport",
-		"city": "Bra\u010d",
+		"name": "Brač Airport",
+		"city": "Brač",
 		"country": "Croatia",
 		"iata": "BWK",
 		"icao": "NULL FOR NOW"
@@ -7063,8 +7063,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Lo\u0161inj Airport",
-		"city": "Mali Lo\u0161inj",
+		"name": "Lošinj Airport",
+		"city": "Mali Lošinj",
 		"country": "Croatia",
 		"iata": "LSZ",
 		"icao": "NULL FOR NOW"
@@ -7434,7 +7434,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Leonardo da Vinci\u2013Fiumicino Airport",
+		"name": "Leonardo da Vinci-Fiumicino Airport",
 		"city": "Rome",
 		"country": "Italy",
 		"iata": "FCO",
@@ -7477,7 +7477,7 @@
 	},
 	{
 		"name": "Malta International Airport",
-		"city": "\u0126al Luqa",
+		"city": "Ħal Luqa",
 		"country": "Malta",
 		"iata": "MLA",
 		"icao": "NULL FOR NOW"
@@ -7518,14 +7518,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Francisco S\u00e1 Carneiro Airport",
+		"name": "Francisco Sá Carneiro Airport",
 		"city": "Porto",
 		"country": "Portugal",
 		"iata": "OPO",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Jo\u00e3o Paulo II Airport",
+		"name": "João Paulo II Airport",
 		"city": "Ponta Delgada",
 		"country": "Portugal",
 		"iata": "PDL",
@@ -7539,7 +7539,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Ljubljana Jo\u017ee Pu\u010dnik Airport",
+		"name": "Ljubljana Jože Pučnik Airport",
 		"city": "Ljubljana",
 		"country": "Slovenia",
 		"iata": "LJU",
@@ -7553,29 +7553,29 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Portoro\u017e Airport",
-		"city": "Portoro\u017e",
+		"name": "Portorož Airport",
+		"city": "Portorož",
 		"country": "Slovenia",
 		"iata": "POW",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "A Coru\u00f1a Airport",
-		"city": "A Coru\u00f1a",
+		"name": "A Coruña Airport",
+		"city": "A Coruña",
 		"country": "Spain",
 		"iata": "LCG",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Alicante\u2013Elche Miguel Hern\u00e1ndez Airport",
+		"name": "Alicante-Elche Miguel Hernández Airport",
 		"city": "Alicante",
 		"country": "Spain",
 		"iata": "ALC",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Almer\u00eda Airport",
-		"city": "Almer\u00eda",
+		"name": "Almería Airport",
+		"city": "Almería",
 		"country": "Spain",
 		"iata": "LEI",
 		"icao": "NULL FOR NOW"
@@ -7588,7 +7588,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Josep Tarradellas Barcelona\u2013El Prat Airport",
+		"name": "Josep Tarradellas Barcelona-El Prat Airport",
 		"city": "Barcelona",
 		"country": "Spain",
 		"iata": "BCN",
@@ -7602,8 +7602,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Castell\u00f3n\u2013Costa Azahar Airport",
-		"city": "Castell\u00f3n de la Plana",
+		"name": "Castellón-Costa Azahar Airport",
+		"city": "Castellón de la Plana",
 		"country": "Spain",
 		"iata": "CDT",
 		"icao": "NULL FOR NOW"
@@ -7630,7 +7630,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Federico Garc\u00eda Lorca Granada Airport",
+		"name": "Federico García Lorca Granada Airport",
 		"city": "Granada",
 		"country": "Spain",
 		"iata": "GRX",
@@ -7686,8 +7686,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "M\u00e1laga Airport",
-		"city": "M\u00e1laga",
+		"name": "Málaga Airport",
+		"city": "Málaga",
 		"country": "Spain",
 		"iata": "AGP",
 		"icao": "NULL FOR NOW"
@@ -7700,7 +7700,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Regi\u00f3n de Murcia International Airport",
+		"name": "Región de Murcia International Airport",
 		"city": "Murcia",
 		"country": "Spain",
 		"iata": "RMU",
@@ -7749,7 +7749,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Tenerife North\u2013Ciudad de La Laguna Airport",
+		"name": "Tenerife North-Ciudad de La Laguna Airport",
 		"city": "Tenerife",
 		"country": "Spain",
 		"iata": "TFN",
@@ -7770,7 +7770,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Vigo\u2013Peinador Airport",
+		"name": "Vigo-Peinador Airport",
 		"city": "Vigo",
 		"country": "Spain",
 		"iata": "VGO",
@@ -7791,14 +7791,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Tirana International Airport N\u00ebn\u00eb Tereza",
+		"name": "Tirana International Airport Nënë Tereza",
 		"city": "Tirana",
 		"country": "Albania",
 		"iata": "TIA",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Kuk\u00ebs International Airport Zayed",
+		"name": "Kukës International Airport Zayed",
 		"city": "Kukes",
 		"country": "Albania",
 		"iata": "KFZ",
@@ -7945,8 +7945,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Chi\u0219in\u0103u International Airport",
-		"city": "Chi\u015fin\u0103u",
+		"name": "Chișinău International Airport",
+		"city": "Chişinău",
 		"country": "Moldova",
 		"iata": "KIV",
 		"icao": "NULL FOR NOW"
@@ -7966,21 +7966,21 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Maramure\u0219 Airport",
+		"name": "Maramureș Airport",
 		"city": "Baia Mare",
 		"country": "Romania",
 		"iata": "BAY",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Bra\u0219ov-Ghimbav International Airport",
-		"city": "Bra\u0219ov",
+		"name": "Brașov-Ghimbav International Airport",
+		"city": "Brașov",
 		"country": "Romania",
 		"iata": "GHV",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Henri Coand\u0103 International Airport",
+		"name": "Henri Coandă International Airport",
 		"city": "Bucharest",
 		"country": "Romania",
 		"iata": "OTP",
@@ -7994,8 +7994,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Mihail Kog\u0103lniceanu International Airport",
-		"city": "Constan\u021ba",
+		"name": "Mihail Kogălniceanu International Airport",
+		"city": "Constanța",
 		"country": "Romania",
 		"iata": "CND",
 		"icao": "NULL FOR NOW"
@@ -8008,8 +8008,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Ia\u0219i International Airport",
-		"city": "Ia\u0219i",
+		"name": "Iași International Airport",
+		"city": "Iași",
 		"country": "Romania",
 		"iata": "IAS",
 		"icao": "NULL FOR NOW"
@@ -8043,15 +8043,15 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "T\u00e2rgu Mure\u0219 International Airport",
-		"city": "T\u00e2rgu Mure\u0219",
+		"name": "Târgu Mureș International Airport",
+		"city": "Târgu Mureș",
 		"country": "Romania",
 		"iata": "TGM",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Timi\u0219oara Traian Vuia International Airport",
-		"city": "Timi\u0219oara",
+		"name": "Timișoara Traian Vuia International Airport",
+		"city": "Timișoara",
 		"country": "Romania",
 		"iata": "TSR",
 		"icao": "NULL FOR NOW"
@@ -8547,8 +8547,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Ni\u0161 Constantine the Great Airport",
-		"city": "Ni\u0161",
+		"name": "Niš Constantine the Great Airport",
+		"city": "Niš",
 		"country": "Serbia",
 		"iata": "INI",
 		"icao": "NULL FOR NOW"
@@ -8561,21 +8561,21 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "\u015eakirpa\u015fa Airport",
+		"name": "Şakirpaşa Airport",
 		"city": "Adana",
 		"country": "Turkey",
 		"iata": "ADA",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Gazipa\u015fa Airport",
+		"name": "Gazipaşa Airport",
 		"city": "Alanya",
 		"country": "Turkey",
 		"iata": "GZP",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Esenbo\u011fa International Airport",
+		"name": "Esenboğa International Airport",
 		"city": "Ankara",
 		"country": "Turkey",
 		"iata": "ESB",
@@ -8589,14 +8589,14 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Milas\u2013Bodrum Airport",
+		"name": "Milas-Bodrum Airport",
 		"city": "Bodrum",
 		"country": "Turkey",
 		"iata": "BJV",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Yeni\u015fehir Airport",
+		"name": "Yenişehir Airport",
 		"city": "Bursa",
 		"country": "Turkey",
 		"iata": "YEI",
@@ -8610,28 +8610,28 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Denizli \u00c7ardak Airport",
+		"name": "Denizli Çardak Airport",
 		"city": "Denizli",
 		"country": "Turkey",
 		"iata": "DNZ",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Diyarbak\u0131r Airport",
-		"city": "Diyarbak\u0131r",
+		"name": "Diyarbakır Airport",
+		"city": "Diyarbakır",
 		"country": "Turkey",
 		"iata": "DIY",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Elaz\u0131\u011f Airport",
-		"city": "Elaz\u0131\u011f",
+		"name": "Elazığ Airport",
+		"city": "Elazığ",
 		"country": "Turkey",
 		"iata": "EZS",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "O\u011fuzeli Airport",
+		"name": "Oğuzeli Airport",
 		"city": "Gaziantep",
 		"country": "Turkey",
 		"iata": "GZT",
@@ -8646,7 +8646,7 @@
 	},
 	{
 		"name": "Adnan Menderes Airport",
-		"city": "\u0130zmir",
+		"city": "İzmir",
 		"country": "Turkey",
 		"iata": "ADB",
 		"icao": "NULL FOR NOW"
@@ -8667,13 +8667,13 @@
 	},
 	{
 		"name": "Zafer Airport",
-		"city": "K\u00fctahya",
+		"city": "Kütahya",
 		"country": "Turkey",
 		"iata": "KZR",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Erha\u00e7 Airport",
+		"name": "Erhaç Airport",
 		"city": "Malatya",
 		"country": "Turkey",
 		"iata": "MLX",
@@ -8681,13 +8681,13 @@
 	},
 	{
 		"name": "Kapadokya Airport",
-		"city": "Nev\u015fehir",
+		"city": "Nevşehir",
 		"country": "Turkey",
 		"iata": "NAV",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Samsun-\u00c7ar\u015famba Airport",
+		"name": "Samsun-Çarşamba Airport",
 		"city": "Samsun",
 		"country": "Turkey",
 		"iata": "SZF",
@@ -8841,22 +8841,22 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "P\u00e4rnu Airport",
-		"city": "P\u00e4rnu",
+		"name": "Pärnu Airport",
+		"city": "Pärnu",
 		"country": "Estonia",
 		"iata": "EPU",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "V\u00e1gar Airport",
-		"city": "V\u00e1gar",
+		"name": "Vágar Airport",
+		"city": "Vágar",
 		"country": "Faroe Islands",
 		"iata": "FAE",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Mariehamn Airport",
-		"city": "\u00c5land",
+		"city": "Åland",
 		"country": "Finland",
 		"iata": "MHQ",
 		"icao": "NULL FOR NOW"
@@ -8869,8 +8869,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Kittil\u00e4 Airport",
-		"city": "Kittil\u00e4",
+		"name": "Kittilä Airport",
+		"city": "Kittilä",
 		"country": "Finland",
 		"iata": "KTT",
 		"icao": "NULL FOR NOW"
@@ -8918,7 +8918,7 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Tampere\u2013Pirkkala Airport",
+		"name": "Tampere-Pirkkala Airport",
 		"city": "Tampere",
 		"country": "Finland",
 		"iata": "TMP",
@@ -8946,15 +8946,15 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Egilssta\u00f0ir Airport",
-		"city": "Egilssta\u00f0ir",
+		"name": "Egilsstaðir Airport",
+		"city": "Egilsstaðir",
 		"country": "Iceland",
 		"iata": "EGS",
 		"icao": "NULL FOR NOW"
 	},
 	{
 		"name": "Keflavik International Airport",
-		"city": "Reykjav\u00edk",
+		"city": "Reykjavík",
 		"country": "Iceland",
 		"iata": "KEF",
 		"icao": "NULL FOR NOW"
@@ -8988,8 +8988,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "\u0160iauliai International Airport",
-		"city": "\u0160iauliai",
+		"name": "Šiauliai International Airport",
+		"city": "Šiauliai",
 		"country": "Lithuania",
 		"iata": "SQQ",
 		"icao": "NULL FOR NOW"
@@ -9002,8 +9002,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "\u00c5lesund Airport",
-		"city": "\u00c5lesund",
+		"name": "Ålesund Airport",
+		"city": "Ålesund",
 		"country": "Norway",
 		"iata": "AES",
 		"icao": "NULL FOR NOW"
@@ -9016,8 +9016,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Bod\u00f8 Airport",
-		"city": "Bod\u00f8",
+		"name": "Bodø Airport",
+		"city": "Bodø",
 		"country": "Norway",
 		"iata": "BOO",
 		"icao": "NULL FOR NOW"
@@ -9058,8 +9058,8 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Troms\u00f8 Airport",
-		"city": "Troms\u00f8",
+		"name": "Tromsø Airport",
+		"city": "Tromsø",
 		"country": "Norway",
 		"iata": "TOS",
 		"icao": "NULL FOR NOW"
@@ -9072,36 +9072,36 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "G\u00f6teborg Landvetter Airport",
+		"name": "Göteborg Landvetter Airport",
 		"city": "Gothenburg",
 		"country": "Sweden",
 		"iata": "GOT",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Lule\u00e5 Airport",
-		"city": "Lule\u00e5",
+		"name": "Luleå Airport",
+		"city": "Luleå",
 		"country": "Sweden",
 		"iata": "LLA",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Malm\u00f6 Airport",
-		"city": "Malm\u00f6",
+		"name": "Malmö Airport",
+		"city": "Malmö",
 		"country": "Sweden",
 		"iata": "MMX",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Norrk\u00f6ping Airport",
-		"city": "Norrk\u00f6ping",
+		"name": "Norrköping Airport",
+		"city": "Norrköping",
 		"country": "Sweden",
 		"iata": "NRK",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "\u00c5re \u00d6stersund Airport",
-		"city": "\u00d6stersund",
+		"name": "Åre Östersund Airport",
+		"city": "Östersund",
 		"country": "Sweden",
 		"iata": "OSD",
 		"icao": "NULL FOR NOW"
@@ -9114,15 +9114,15 @@
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Sundsvall\u2013Timr\u00e5 Airport",
+		"name": "Sundsvall-Timrå Airport",
 		"city": "Sundsvall",
 		"country": "Sweden",
 		"iata": "SDL",
 		"icao": "NULL FOR NOW"
 	},
 	{
-		"name": "Ume\u00e5 Airport",
-		"city": "Ume\u00e5",
+		"name": "Umeå Airport",
+		"city": "Umeå",
 		"country": "Sweden",
 		"iata": "UME",
 		"icao": "NULL FOR NOW"
