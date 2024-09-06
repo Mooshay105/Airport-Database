@@ -1,6 +1,7 @@
 import ReactDOM from "react-dom/client";
 import AirportCard from "./components/AirportCard";
 import NoticeBanner from "./components/NoticeBanner";
+import DownloadButton from "./components/DownloadButton";
 import "./assets/App.css";
 import imgURLs from "./assets/imgURLs.json";
 import airports from "./assets/airports.json";
@@ -11,6 +12,7 @@ function App() {
 			<NoticeBanner />
 			<div className="main">
 				<h1>Airports</h1>
+				<DownloadButton />
 				<div className="cards">
 					{airports.map((airport) => {
 						const imageUrl = imgURLs[airport.country as keyof typeof imgURLs];

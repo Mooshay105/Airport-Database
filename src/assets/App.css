@@ -72,3 +72,17 @@ a {
 a:hover {
 	font-weight: 800;
 }
+
+.downloadButton {
+	background-color: #007bff;
+	color: #fff;
+	border: none;
+	padding: 10px 200px;
+	border-radius: 10px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+}
+
+.downloadButton:hover {
+	background-color: #0056b3;
+}
