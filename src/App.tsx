@@ -27,6 +27,9 @@ function App() {
 							return <AirportCard key={airport.iata} airportName={airport.name} city={airport.city} country={airport.country} iataCode={airport.iata} icaoCode={airport.icao} imgURL={imageUrl} link={`https://www.google.com/search?q=${airport.name},${airport.city},${airport.country}`} />;
 						})}
 				</div>
+				<button className="gotoTopButton" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
+					Top
+				</button>
 			</div>
 		</>
 	);

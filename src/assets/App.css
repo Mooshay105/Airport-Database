@@ -95,3 +95,18 @@ a:hover {
 	margin: 0.5rem;
 	border-radius: 5px;
 }
+
+.gotoTopButton {
+	--topButtonSize: 100px;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	height: var(--topButtonSize);
+	width: var(--topButtonSize);
+	border: white solid 2px;
+	border-radius: 50%;
+	background-color: #0d0b1a;
+	justify-content: center;
+	align-items: center;
+	color: #ffffff;
+}
