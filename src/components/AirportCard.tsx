@@ -4,12 +4,13 @@ interface AirportCardProps {
 	country: string;
 	iataCode: string;
 	icaoCode: string;
+	link: string;
 	imgURL: string;
 }
 
-function AirportCard({ airportName, city, country, iataCode, icaoCode, imgURL }: AirportCardProps) {
+function AirportCard({ airportName, city, country, iataCode, icaoCode, imgURL, link }: AirportCardProps) {
 	return (
-		<div className="card">
+		<div className="card" onClick={() => window.open(link, "_blank")}>
 			<img src={imgURL} draggable="false" />
 			<div className="content">
 				<h2>{airportName}</h2>
