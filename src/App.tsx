@@ -1,7 +1,6 @@
 import { useState } from "react";
 import ReactDOM from "react-dom/client";
 import AirportCard from "./components/AirportCard";
-import NoticeBanner from "./components/NoticeBanner";
 import DownloadButton from "./components/DownloadButton";
 import "./assets/App.css";
 import imgURLs from "./assets/imgURLs.json";
@@ -12,10 +11,9 @@ function App() {
 
 	return (
 		<>
-			<NoticeBanner />
 			<div className="main">
-				<h1>Airports</h1>
-				<input type="text" placeholder="🔎 Search Airport Name" onChange={(event) => setSearchQuery(event.target.value)} className="searchBar" />
+				<h1 className="title">Airport Database</h1>
+				<input type="text" placeholder="🔎 Search Airport Name Or IATA Code" onChange={(event) => setSearchQuery(event.target.value)} className="searchBar" />
 				<DownloadButton />
 				<div className="cards">
 					{airports
