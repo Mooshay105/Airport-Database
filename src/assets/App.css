@@ -4,13 +4,6 @@
 	user-select: none;
 }
 
-.title {
-	font-size: 4rem;
-	margin: 0;
-	text-align: center;
-	color: #ffffff;
-}
-
 body {
 	margin: 0;
 	font-family: "Ubuntu", "Helvetica Neue", sans-serif;
@@ -18,12 +11,19 @@ body {
 	color: white;
 }
 
-.main {
+.App {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	height: 100vh;
 	width: 100vw;
+}
+
+.title {
+	font-size: 4rem;
+	margin: 0;
+	text-align: center;
+	color: #ffffff;
 }
 
 /* Card Styles */
@@ -39,11 +39,17 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	border-radius: 10px;
+	border-radius: 15px;
 	padding: 0;
 	margin: 1rem;
 	width: 20rem;
 	height: 24rem;
+	border: solid 4px #00000000;
+}
+
+.card:hover {
+	border: solid 4px #ffffff;
+	transition: border-color 0.5s ease;
 }
 
 .card img {
@@ -61,15 +67,19 @@ body {
 	text-align: center;
 }
 
-/* Misc Styles */
-
-a {
-	color: #000000;
+b {
+	font-weight: bold;
 }
 
-a:hover {
-	font-weight: 800;
+.h2Bold {
+	font-weight: 1000;
 }
+
+.h2NotBold {
+	font-weight: 500;
+}
+
+/* Download Button Styles */
 
 .downloadButton {
 	background-color: #007bff;
@@ -85,6 +95,31 @@ a:hover {
 	background-color: #0056b3;
 }
 
+/* Top Button Styles */
+
+.topButton {
+	--topButtonSize: 100px;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	height: var(--topButtonSize);
+	width: var(--topButtonSize);
+	border: solid 2px #ffffff;
+	border-radius: 50%;
+	background-color: #0d0b1a;
+	justify-content: center;
+	align-items: center;
+	color: #ffffff;
+	transition: border-color 0.3s ease, color 0.3s ease;
+}
+
+.topButton:hover {
+	border-color: #bebebe;
+	color: #bebebe;
+}
+
+/* Misc Styles */
+
 .searchBar {
 	border: none;
 	outline: none;
@@ -93,31 +128,4 @@ a:hover {
 	margin: 0.5rem;
 	border-radius: 5px;
 	width: 26.5rem;
-}
-
-.gotoTopButton {
-	--topButtonSize: 100px;
-	position: fixed;
-	bottom: 20px;
-	right: 20px;
-	height: var(--topButtonSize);
-	width: var(--topButtonSize);
-	border: white solid 2px;
-	border-radius: 50%;
-	background-color: #0d0b1a;
-	justify-content: center;
-	align-items: center;
-	color: #ffffff;
-}
-
-b {
-	font-weight: bold;
-}
-
-.h2Bold {
-	font-weight: 1000;
-}
-
-.h2NotBold {
-	font-weight: 500;
 }

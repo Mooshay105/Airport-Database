@@ -11,7 +11,7 @@ function App() {
 
 	return (
 		<>
-			<div className="main">
+			<div className="App">
 				<h1 className="title">Airport Database</h1>
 				<input type="text" placeholder="🔎 Search Airport Name Or IATA Code" onChange={(event) => setSearchQuery(event.target.value)} className="searchBar" />
 				<DownloadButton />
@@ -25,7 +25,7 @@ function App() {
 							return <AirportCard key={airport.iata} airportName={airport.name} city={airport.city} country={airport.country} iataCode={airport.iata} icaoCode={airport.icao} imgURL={imageUrl} link={`https://www.google.com/search?q=${airport.name},${airport.city},${airport.country}`} searchQuery={searchQuery} />;
 						})}
 				</div>
-				<button className="gotoTopButton" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
+				<button className="topButton" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
 					Top
 				</button>
 			</div>
