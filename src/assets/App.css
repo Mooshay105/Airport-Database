@@ -110,3 +110,15 @@ a:hover {
 	align-items: center;
 	color: #ffffff;
 }
+
+b {
+	font-weight: bold;
+}
+
+.h2Bold {
+	font-weight: 1000;
+}
+
+.h2NotBold {
+	font-weight: 500;
+}

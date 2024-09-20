@@ -24,7 +24,7 @@ function App() {
 						})
 						.map((airport) => {
 							const imageUrl = imgURLs[airport.country as keyof typeof imgURLs];
-							return <AirportCard key={airport.iata} airportName={airport.name} city={airport.city} country={airport.country} iataCode={airport.iata} icaoCode={airport.icao} imgURL={imageUrl} link={`https://www.google.com/search?q=${airport.name},${airport.city},${airport.country}`} />;
+							return <AirportCard key={airport.iata} airportName={airport.name} city={airport.city} country={airport.country} iataCode={airport.iata} icaoCode={airport.icao} imgURL={imageUrl} link={`https://www.google.com/search?q=${airport.name},${airport.city},${airport.country}`} searchQuery={searchQuery} />;
 						})}
 				</div>
 				<button className="gotoTopButton" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
