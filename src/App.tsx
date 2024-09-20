@@ -2,9 +2,10 @@ import { useState } from "react";
 import ReactDOM from "react-dom/client";
 import AirportCard from "./components/AirportCard";
 import DownloadButton from "./components/DownloadButton";
-import "./assets/App.css";
+import TopButton from "./components/TopButton";
 import imgURLs from "./assets/imgURLs.json";
 import airports from "./assets/airports.json";
+import "./assets/App.css";
 
 function App() {
 	const [searchQuery, setSearchQuery] = useState("");
@@ -25,9 +26,7 @@ function App() {
 							return <AirportCard key={airport.iata} airportName={airport.name} city={airport.city} country={airport.country} iataCode={airport.iata} icaoCode={airport.icao} imgURL={imageUrl} link={`https://www.google.com/search?q=${airport.name},${airport.city},${airport.country}`} searchQuery={searchQuery} />;
 						})}
 				</div>
-				<button className="topButton" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
-					Top
-				</button>
+				<TopButton />
 			</div>
 		</>
 	);
