@@ -9530,11 +9530,18 @@
 		"icao": "NWWW"
 	},
 	{
-		"name": "Auckland Airport",
-		"city": "Auckland",
+		"name": "Alexandra Aerodrome",
+		"city": "Alexandra",
 		"country": "New Zealand",
-		"iata": "AKL",
-		"icao": "NZAA"
+		"iata": "ALR",
+		"icao": "NZLX"
+	},
+	{
+		"name": "Ashburton Aerodrome",
+		"city": "Ashburton",
+		"country": "New Zealand",
+		"iata": "ASG",
+		"icao": "NZAS"
 	},
 	{
 		"name": "Ardmore Airport",
@@ -9544,95 +9551,144 @@
 		"icao": "NZAR"
 	},
 	{
-		"name": "Coromandel Aerodrome",
+		"name": "North Shore Aerodrome",
 		"city": "Auckland",
 		"country": "New Zealand",
-		"iata": "CMV",
-		"icao": "NZCX"
+		"iata": "",
+		"icao": "NZNE"
 	},
 	{
-		"name": "Great Barrier Aerodrome",
+		"name": "Auckland Airport",
 		"city": "Auckland",
 		"country": "New Zealand",
-		"iata": "GBZ",
-		"icao": "NZGB"
+		"iata": "AKL",
+		"icao": "NZAA"
 	},
 	{
-		"name": "Waiheke Island Aerodrome",
+		"name": "RNZAF Base Auckland",
 		"city": "Auckland",
 		"country": "New Zealand",
-		"iata": "WIK",
-		"icao": "NZKE"
+		"iata": "",
+		"icao": "NZWP"
 	},
 	{
-		"name": "Rotorua Regional Airport",
-		"city": "Bay of Plenty",
+		"name": "Balclutha Aerodrome",
+		"city": "Balclutha",
 		"country": "New Zealand",
-		"iata": "ROT",
-		"icao": "NZRO"
+		"iata": "",
+		"icao": "NZBA"
 	},
 	{
-		"name": "Tauranga Airport",
-		"city": "Bay of Plenty",
+		"name": "Omaka Aerodrome",
+		"city": "Blenheim",
 		"country": "New Zealand",
-		"iata": "TRG",
-		"icao": "NZTG"
+		"iata": "",
+		"icao": "NZOM"
 	},
 	{
-		"name": "Whakatane Airport",
-		"city": "Bay of Plenty",
+		"name": "Woodbourne Airport",
+		"city": "Blenheim",
 		"country": "New Zealand",
-		"iata": "WHK",
-		"icao": "NZWK"
+		"iata": "BHE",
+		"icao": "NZWB"
 	},
 	{
-		"name": "Ashburton Aerodrome",
-		"city": "Canterbury",
+		"name": "Chatham Islands / Tuuta Airport",
+		"city": "Chatham Islands",
 		"country": "New Zealand",
-		"iata": "ASG",
-		"icao": "NZAS"
+		"iata": "CHT",
+		"icao": "NZCI"
 	},
 	{
-		"name": "Christchurch International Airport",
-		"city": "Canterbury",
+		"name": "Christchurch Airport",
+		"city": "Christchurch",
 		"country": "New Zealand",
 		"iata": "CHC",
 		"icao": "NZCH"
 	},
 	{
-		"name": "Glentanner Aerodrome",
-		"city": "Canterbury",
+		"name": "Coromandel Aerodrome",
+		"city": "Coromandel",
 		"country": "New Zealand",
-		"iata": "GTN",
-		"icao": "NZGT"
+		"iata": "CMV",
+		"icao": "NZCX"
 	},
 	{
-		"name": "Kaikoura Aerodrome",
-		"city": "Canterbury",
+		"name": "Cromwell Racecourse Aerodrome",
+		"city": "Cromwell",
 		"country": "New Zealand",
-		"iata": "KBZ",
-		"icao": "NZKI"
+		"iata": "",
+		"icao": "NZCS"
 	},
 	{
-		"name": "Richard Pearse Airport",
-		"city": "Canterbury",
+		"name": "Dannevirke Aerodrome",
+		"city": "Dannevirke",
 		"country": "New Zealand",
-		"iata": "TIU",
-		"icao": "NZTU"
+		"iata": "",
+		"icao": "NZDV"
 	},
 	{
-		"name": "Pukaki Airport",
-		"city": "Canterbury",
+		"name": "Dargaville Aerodrome",
+		"city": "Dargaville",
 		"country": "New Zealand",
-		"iata": "TWZ",
-		"icao": "NZUK"
+		"iata": "DGR",
+		"icao": "NZDA"
 	},
 	{
-		"name": "Chatham Islands / Tuuta Airport",
-		"city": "Chatham Islands Territory",
+		"name": "Taieri Aerodrome",
+		"city": "Dunedin (Mosgiel)",
 		"country": "New Zealand",
-		"iata": "CHT",
-		"icao": "NZCI"
+		"iata": "",
+		"icao": "NZTI"
+	},
+	{
+		"name": "Dunedin Airport",
+		"city": "Dunedin (Momona)",
+		"country": "New Zealand",
+		"iata": "DUD",
+		"icao": "NZDN"
+	},
+	{
+		"name": "Forest Field Aerodrome",
+		"city": "Eyrewell Forest",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZFF"
+	},
+	{
+		"name": "Feilding Aerodrome",
+		"city": "Feilding",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZFI"
+	},
+	{
+		"name": "Fox Glacier Aerodrome",
+		"city": "Fox Glacier",
+		"country": "New Zealand",
+		"iata": "FGL",
+		"icao": "NZFO"
+	},
+	{
+		"name": "Foxpine Aerodrome",
+		"city": "Foxton",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZFP"
+	},
+	{
+		"name": "Franz Josef Aerodrome",
+		"city": "Franz Josef",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZFJ"
+	},
+	{
+		"name": "Galatea Aerodrome",
+		"city": "Galatea / Murupara",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZGA"
 	},
 	{
 		"name": "Gisborne Airport",
@@ -9642,53 +9698,186 @@
 		"icao": "NZGS"
 	},
 	{
-		"name": "Hawke's Bay Airport",
-		"city": "Hawke's Bay",
+		"name": "Glenorchy Aerodrome",
+		"city": "Glenorchy",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZGY"
+	},
+	{
+		"name": "Glentanner Aerodrome",
+		"city": "Glentanner / Lake Pukaki",
+		"country": "New Zealand",
+		"iata": "GTN",
+		"icao": "NZGT"
+	},
+	{
+		"name": "Gore Aerodrome",
+		"city": "Gore",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZGC"
+	},
+	{
+		"name": "Great Barrier Aerodrome",
+		"city": "Great Barrier Island (Claris)",
+		"country": "New Zealand",
+		"iata": "GBZ",
+		"icao": "NZGB"
+	},
+	{
+		"name": "Okiwi Airfield",
+		"city": "Great Barrier Island (Okiwi)",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZOX"
+	},
+	{
+		"name": "Greymouth Airport",
+		"city": "Greymouth",
+		"country": "New Zealand",
+		"iata": "GMN",
+		"icao": "NZGM"
+	},
+	{
+		"name": "Haast Aerodrome",
+		"city": "Haast",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZHT"
+	},
+	{
+		"name": "Hamilton Airport",
+		"city": "Hamilton",
+		"country": "New Zealand",
+		"iata": "HLZ",
+		"icao": "NZHN"
+	},
+	{
+		"name": "Hanmer Springs Aerodrome",
+		"city": "Hanmer Springs",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZHM"
+	},
+	{
+		"name": "Hastings Aerodrome",
+		"city": "Hastings",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZHS"
+	},
+	{
+		"name": "Hāwera Aerodrome",
+		"city": "Hāwera",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZHA"
+	},
+	{
+		"name": "Hokitika Airport",
+		"city": "Hokitika",
+		"country": "New Zealand",
+		"iata": "HKK",
+		"icao": "NZHK"
+	},
+	{
+		"name": "Invercargill Airport",
+		"city": "Invercargill",
+		"country": "New Zealand",
+		"iata": "IVC",
+		"icao": "NZNV"
+	},
+	{
+		"name": "Kaikohe Aerodrome",
+		"city": "Kaikohe",
+		"country": "New Zealand",
+		"iata": "KKO",
+		"icao": "NZKO"
+	},
+	{
+		"name": "Kaikoura Airport",
+		"city": "Kaikōura",
+		"country": "New Zealand",
+		"iata": "KBZ",
+		"icao": "NZKI"
+	},
+	{
+		"name": "Kaipara Flats Aerodrome",
+		"city": "Kaipara Flats",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZKF"
+	},
+	{
+		"name": "Kaitaia Airport",
+		"city": "Kaitaia",
+		"country": "New Zealand",
+		"iata": "KAT",
+		"icao": "NZKT"
+	},
+	{
+		"name": "Karamea Aerodrome",
+		"city": "Karamea",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZKM"
+	},
+	{
+		"name": "Kerikeri Airport",
+		"city": "Kerikeri",
+		"country": "New Zealand",
+		"iata": "KKE",
+		"icao": "NZKK"
+	},
+	{
+		"name": "Lake Tekapo Aerodrome",
+		"city": "Lake Tekapo",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZLT"
+	},
+	{
+		"name": "Levin Aerodrome",
+		"city": "Levin",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZLV"
+	},
+	{
+		"name": "Lumsden Aerodrome",
+		"city": "Lumsden",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZLU"
+	},
+	{
+		"name": "Masterton Airport",
+		"city": "Masterton",
+		"country": "New Zealand",
+		"iata": "MRO",
+		"icao": "NZMS"
+	},
+	{
+		"name": "Marlborough Airport",
+		"city": "Marlborough",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZMB"
+	},
+	{
+		"name": "Matamata Aerodrome",
+		"city": "Matamata",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZMT"
+	},
+	{
+		"name": "Napier Airport",
+		"city": "Napier",
 		"country": "New Zealand",
 		"iata": "NPE",
 		"icao": "NZNR"
-	},
-	{
-		"name": "Wairoa Aerodrome",
-		"city": "Hawke's Bay",
-		"country": "New Zealand",
-		"iata": "WIR",
-		"icao": "NZWO"
-	},
-	{
-		"name": "RNZAF Base Ohakea",
-		"city": "Manawatu-Wanganui",
-		"country": "New Zealand",
-		"iata": "OHA",
-		"icao": "NZOH"
-	},
-	{
-		"name": "Palmerston North Airport",
-		"city": "Manawatu-Wanganui",
-		"country": "New Zealand",
-		"iata": "PMR",
-		"icao": "NZPM"
-	},
-	{
-		"name": "Whanganui Airport",
-		"city": "Manawatu-Wanganui",
-		"country": "New Zealand",
-		"iata": "WAG",
-		"icao": "NZWU"
-	},
-	{
-		"name": "Woodbourne Airport",
-		"city": "Marlborough",
-		"country": "New Zealand",
-		"iata": "BHE",
-		"icao": "NZWB"
-	},
-	{
-		"name": "Picton Aerodrome",
-		"city": "Marlborough",
-		"country": "New Zealand",
-		"iata": "PCN",
-		"icao": "NZPN"
 	},
 	{
 		"name": "Nelson Airport",
@@ -9698,235 +9887,130 @@
 		"icao": "NZNS"
 	},
 	{
-		"name": "Dargaville Aerodrome",
-		"city": "Northland",
-		"country": "New Zealand",
-		"iata": "DGR",
-		"icao": "NZDA"
-	},
-	{
-		"name": "Kaitaia Airport",
-		"city": "Northland",
-		"country": "New Zealand",
-		"iata": "KAT",
-		"icao": "NZKT"
-	},
-	{
-		"name": "Kerikeri Airport (Bay of Islands Airport)",
-		"city": "Northland",
-		"country": "New Zealand",
-		"iata": "KKE",
-		"icao": "NZKK"
-	},
-	{
-		"name": "Kaikohe Aerodrome",
-		"city": "Northland",
-		"country": "New Zealand",
-		"iata": "KKO",
-		"icao": "NZKO"
-	},
-	{
-		"name": "Whangarei Airport",
-		"city": "Northland",
-		"country": "New Zealand",
-		"iata": "WRE",
-		"icao": "NZWR"
-	},
-	{
-		"name": "Alexandra Aerodrome",
-		"city": "Otago",
-		"country": "New Zealand",
-		"iata": "ALR",
-		"icao": "NZLX"
-	},
-	{
-		"name": "Dunedin International Airport",
-		"city": "Otago",
-		"country": "New Zealand",
-		"iata": "DUD",
-		"icao": "NZDN"
-	},
-	{
-		"name": "Oamaru Airport",
-		"city": "Otago",
-		"country": "New Zealand",
-		"iata": "OAM",
-		"icao": "NZOU"
-	},
-	{
-		"name": "Wanaka Airport",
-		"city": "Otago",
-		"country": "New Zealand",
-		"iata": "WKA",
-		"icao": "NZWF"
-	},
-	{
-		"name": "Queenstown Airport",
-		"city": "Otago",
-		"country": "New Zealand",
-		"iata": "ZQN",
-		"icao": "NZQN"
-	},
-	{
-		"name": "Invercargill Airport",
-		"city": "Southland",
-		"country": "New Zealand",
-		"iata": "IVC",
-		"icao": "NZNV"
-	},
-	{
-		"name": "Milford Sound Airport",
-		"city": "Southland",
-		"country": "New Zealand",
-		"iata": "MFN",
-		"icao": "NZMF"
-	},
-	{
-		"name": "Mount Cook Aerodrome",
-		"city": "Southland",
-		"country": "New Zealand",
-		"iata": "MON",
-		"icao": "NZMC"
-	},
-	{
-		"name": "Ryan's Creek Aerodrome",
-		"city": "Southland",
-		"country": "New Zealand",
-		"iata": "SZS",
-		"icao": "NZRC"
-	},
-	{
-		"name": "Te Anau Airport (Manapouri Airport)",
-		"city": "Southland",
-		"country": "New Zealand",
-		"iata": "TEU",
-		"icao": "NZMO"
-	},
-	{
-		"name": "Franz Josef Glacier Aerodrome",
-		"city": "Southland",
-		"country": "New Zealand",
-		"iata": "WHO",
-		"icao": ""
-	},
-	{
 		"name": "New Plymouth Airport",
-		"city": "Taranaki",
+		"city": "New Plymouth",
 		"country": "New Zealand",
 		"iata": "NPL",
 		"icao": "NZNP"
 	},
 	{
-		"name": "Takaka Aerodrome",
-		"city": "Tasman",
+		"name": "Palmerston North Airport",
+		"city": "Palmerston North",
 		"country": "New Zealand",
-		"iata": "KTF",
-		"icao": "NZTK"
+		"iata": "PMR",
+		"icao": "NZPN"
 	},
 	{
-		"name": "Motueka Aerodrome",
-		"city": "Tasman",
-		"country": "New Zealand",
-		"iata": "MZP",
-		"icao": "NZMK"
-	},
-	{
-		"name": "Hamilton Airport",
-		"city": "Waikato",
-		"country": "New Zealand",
-		"iata": "HLZ",
-		"icao": "NZHN"
-	},
-	{
-		"name": "Matamata Airport",
-		"city": "Waikato",
-		"country": "New Zealand",
-		"iata": "MTA",
-		"icao": "NZMA"
-	},
-	{
-		"name": "Raglan Aerodrome",
-		"city": "Waikato",
-		"country": "New Zealand",
-		"iata": "RAG",
-		"icao": "NZRA"
-	},
-	{
-		"name": "Taharoa Aerodrome",
-		"city": "Waikato",
-		"country": "New Zealand",
-		"iata": "THH",
-		"icao": ""
-	},
-	{
-		"name": "Tokoroa Aerodrome",
-		"city": "Waikato",
-		"country": "New Zealand",
-		"iata": "TKZ",
-		"icao": "NZTO"
-	},
-	{
-		"name": "Thames Aerodrome",
-		"city": "Waikato",
-		"country": "New Zealand",
-		"iata": "TMZ",
-		"icao": "NZTH"
-	},
-	{
-		"name": "Taupo Airport",
-		"city": "Waikato",
-		"country": "New Zealand",
-		"iata": "TUO",
-		"icao": "NZAP"
-	},
-	{
-		"name": "Whitianga Aerodrome",
-		"city": "Waikato",
-		"country": "New Zealand",
-		"iata": "WTZ",
-		"icao": "NZWT"
-	},
-	{
-		"name": "Hood Aerodrome",
-		"city": "Wellington",
-		"country": "New Zealand",
-		"iata": "MRO",
-		"icao": "NZMS"
-	},
-	{
-		"name": "Kapiti Coast Airport",
-		"city": "Wellington",
+		"name": "Paraparaumu Airport",
+		"city": "Paraparaumu",
 		"country": "New Zealand",
 		"iata": "PPQ",
 		"icao": "NZPP"
 	},
 	{
-		"name": "Wellington International Airport",
+		"name": "Queenstown Airport",
+		"city": "Queenstown",
+		"country": "New Zealand",
+		"iata": "ZQN",
+		"icao": "NZQN"
+	},
+	{
+		"name": "Raglan Aerodrome",
+		"city": "Raglan",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZRG"
+	},
+	{
+		"name": "Rotorua Airport",
+		"city": "Rotorua",
+		"country": "New Zealand",
+		"iata": "ROT",
+		"icao": "NZRO"
+	},
+	{
+		"name": "Seddon Aerodrome",
+		"city": "Seddon",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZSE"
+	},
+	{
+		"name": "South Kaipara Aerodrome",
+		"city": "South Kaipara",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZSK"
+	},
+	{
+		"name": "Taumarunui Aerodrome",
+		"city": "Taumarunui",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZTU"
+	},
+	{
+		"name": "Tauranga Airport",
+		"city": "Tauranga",
+		"country": "New Zealand",
+		"iata": "TRG",
+		"icao": "NZTG"
+	},
+	{
+		"name": "Timaru Airport",
+		"city": "Timaru",
+		"country": "New Zealand",
+		"iata": "TIU",
+		"icao": "NZTU"
+	},
+	{
+		"name": "Tokoroa Aerodrome",
+		"city": "Tokoroa",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZTK"
+	},
+	{
+		"name": "Wairoa Aerodrome",
+		"city": "Wairoa",
+		"country": "New Zealand",
+		"iata": "",
+		"icao": "NZWU"
+	},
+	{
+		"name": "Wanganui Airport",
+		"city": "Wanganui",
+		"country": "New Zealand",
+		"iata": "WAG",
+		"icao": "NZWN"
+	},
+	{
+		"name": "Wellington Airport",
 		"city": "Wellington",
 		"country": "New Zealand",
 		"iata": "WLG",
 		"icao": "NZWN"
 	},
 	{
-		"name": "Greymouth Airport",
-		"city": "West Coast",
+		"name": "Whakatane Airport",
+		"city": "Whakatane",
 		"country": "New Zealand",
-		"iata": "GMN",
-		"icao": "NZGM"
+		"iata": "WHK",
+		"icao": "NZWB"
 	},
 	{
-		"name": "Hokitika Airport",
-		"city": "West Coast",
+		"name": "Whangarei Airport",
+		"city": "Whangarei",
 		"country": "New Zealand",
-		"iata": "HKK",
-		"icao": "NZHK"
+		"iata": "WRE",
+		"icao": "NZWR"
 	},
 	{
-		"name": "Westport Airport",
-		"city": "West Coast",
+		"name": "Whanganui Airport",
+		"city": "Whanganui",
 		"country": "New Zealand",
-		"iata": "WSZ",
-		"icao": "NZWS"
+		"iata": "WAG",
+		"icao": "NZWN"
 	},
 	{
 		"name": "Norfolk Island Airport",
