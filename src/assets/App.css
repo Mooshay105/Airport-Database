@@ -118,7 +118,7 @@ b {
 	color: #bebebe;
 }
 
-/* Misc Styles */
+/* Search Bar Styles */
 
 .searchBar {
 	border: none;
@@ -128,4 +128,26 @@ b {
 	margin: 0.5rem;
 	border-radius: 5px;
 	width: 26.5rem;
+}
+
+.clearButton {
+	background-color: #ffffff;
+	color: #000000;
+	border: none;
+	padding: 5px 50px;
+	border-radius: 10px;
+	cursor: pointer;
+	font-size: larger;
+	height: 50px;
+	transition: background-color 0.3s ease;
+}
+
+.clearButton:hover {
+	background-color: #dcdcdc;
+}
+
+.searchBarContainer {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
 }

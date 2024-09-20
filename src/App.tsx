@@ -14,7 +14,12 @@ function App() {
 		<>
 			<div className="App">
 				<h1 className="title">Airport Database</h1>
-				<input type="text" placeholder="🔎 Search Airport Name Or IATA Code" onChange={(event) => setSearchQuery(event.target.value)} className="searchBar" />
+				<div className="searchBarContainer">
+					<input value={searchQuery} type="text" placeholder="🔎 Search Airport Name Or IATA Code" onChange={(event) => setSearchQuery(event.target.value)} className="searchBar" />
+					<button className="clearButton" onClick={() => setSearchQuery("")}>
+						clear
+					</button>
+				</div>
 				<DownloadButton />
 				<div className="cards">
 					{airports
