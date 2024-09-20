@@ -1,80 +1,237 @@
 [
 	{
+		"name": "Touat-Cheikh Sidi Mohamed Belkebir Airport",
+		"city": "Adrar",
+		"country": "Algeria",
+		"iata": "AZR",
+		"icao": "DAUA"
+	},
+	{
 		"name": "Houari Boumediene Airport",
 		"city": "Algiers",
 		"country": "Algeria",
 		"iata": "ALG",
-		"icao": "NULL FOR NOW"
+		"icao": "DAAG"
 	},
 	{
 		"name": "Rabah Bitat Airport",
 		"city": "Annaba",
 		"country": "Algeria",
 		"iata": "AAE",
-		"icao": "NULL FOR NOW"
+		"icao": "DABB"
 	},
 	{
 		"name": "Batna Airport",
 		"city": "Batna",
 		"country": "Algeria",
 		"iata": "BLJ",
-		"icao": "NULL FOR NOW"
+		"icao": "DABT"
 	},
 	{
 		"name": "Soummam Airport",
 		"city": "Béjaïa",
 		"country": "Algeria",
 		"iata": "BJA",
-		"icao": "NULL FOR NOW"
+		"icao": "DAAE"
+	},
+	{
+		"name": "Mohamed Khider Airport",
+		"city": "Biskra",
+		"country": "Algeria",
+		"iata": "BSK",
+		"icao": "DAUB"
 	},
 	{
 		"name": "Chlef International Airport",
 		"city": "Chlef",
 		"country": "Algeria",
 		"iata": "CFK",
-		"icao": "NULL FOR NOW"
+		"icao": "DAOI"
 	},
 	{
 		"name": "Mohamed Boudiaf International Airport",
 		"city": "Constantine",
 		"country": "Algeria",
 		"iata": "CZL",
-		"icao": "NULL FOR NOW"
+		"icao": "DABC"
 	},
+
+	{
+		"name": "Guemar Airport",
+		"city": "El Oued",
+		"country": "Algeria",
+		"iata": "ELU",
+		"icao": "DAUO"
+	},
+	{
+		"name": "Noumérat – Moufdi Zakaria Airport",
+		"city": "Ghardaïa",
+		"country": "Algeria",
+		"iata": "GHA",
+		"icao": "DAUG"
+	},
+
+	{
+		"name": "Oued Irara–Krim Belkacem Airport",
+		"city": "Hassi Messaoud",
+		"country": "Algeria",
+		"iata": "HME",
+		"icao": "DAUH"
+	},
+	{
+		"name": "In Amenas Airport",
+		"city": "In Amenas",
+		"country": "Algeria",
+		"iata": "IAM",
+		"icao": "DAUZ"
+	},
+
 	{
 		"name": "Jijel Ferhat Abbas Airport",
 		"city": "Jijel",
 		"country": "Algeria",
 		"iata": "GJL",
-		"icao": "NULL FOR NOW"
+		"icao": "DAAV"
 	},
 	{
 		"name": "Oran Es Senia Airport",
 		"city": "Oran",
 		"country": "Algeria",
 		"iata": "ORN",
-		"icao": "NULL FOR NOW"
-	},
-	{
-		"name": "Biskra Airport",
-		"city": "Oumache",
-		"country": "Algeria",
-		"iata": "BSK",
-		"icao": "NULL FOR NOW"
+		"icao": "DAOO"
 	},
 	{
 		"name": "Ain Arnat Airport",
 		"city": "Sétif",
 		"country": "Algeria",
 		"iata": "QSF",
-		"icao": "NULL FOR NOW"
+		"icao": "DAAS"
+	},
+	{
+		"name": "Aguenar – Hadj Bey Akhamok Airport",
+		"city": "Tamanrasset",
+		"country": "Algeria",
+		"iata": "TMR",
+		"icao": "DAAT"
+	},
+	{
+		"name": "Cheikh Larbi Tébessa Airport",
+		"city": "Tébessa",
+		"country": "Algeria",
+		"iata": "TEE",
+		"icao": "DABS"
 	},
 	{
 		"name": "Zenata - Messali El Hadj Airport",
 		"city": "Tlemcen",
 		"country": "Algeria",
 		"iata": "TLM",
-		"icao": "NULL FOR NOW"
+		"icao": "DAON"
+	},
+	{
+		"name": "Boudghene Ben Ali Lotfi Airport",
+		"city": "Béchar",
+		"country": "Algeria",
+		"iata": "CBH",
+		"icao": "DAOR"
+	},
+	{
+		"name": "Bordj Mokhtar Airport",
+		"city": "Bordj Badji Mokhtar",
+		"country": "Algeria",
+		"iata": "BMW",
+		"icao": "DATM"
+	},
+	{
+		"name": "Bou Saada Airport",
+		"city": "Bou Saâda",
+		"country": "Algeria",
+		"iata": "BUJ",
+		"icao": "DAAD"
+	},
+	{
+		"name": "Tiska Djanet Airport",
+		"city": "Djanet",
+		"country": "Algeria",
+		"iata": "DJG",
+		"icao": "DAAJ"
+	},
+	{
+		"name": "El Bayadh Airport",
+		"city": "El Bayadh",
+		"country": "Algeria",
+		"iata": "EBH",
+		"icao": "DAOY"
+	},
+	{
+		"name": "El Golea Airport",
+		"city": "El Goléa",
+		"country": "Algeria",
+		"iata": "ELG",
+		"icao": "DAUE"
+	},
+	{
+		"name": "Takhamalt Airport",
+		"city": "Illizi",
+		"country": "Algeria",
+		"iata": "VVZ",
+		"icao": "DAAP"
+	},
+	{
+		"name": "In Guezzam Airport",
+		"city": "In Guezzam",
+		"country": "Algeria",
+		"iata": "INF",
+		"icao": "DATG"
+	},
+	{
+		"name": "In Salah Airport",
+		"city": "In Salah",
+		"country": "Algeria",
+		"iata": "INZ",
+		"icao": "DAUI"
+	},
+	{
+		"name": "Ghriss Airport",
+		"city": "Mascara",
+		"country": "Algeria",
+		"iata": "MUW",
+		"icao": "DAOV"
+	},
+	{
+		"name": "Ain Beida Airport",
+		"city": "Ouargla",
+		"country": "Algeria",
+		"iata": "OGX",
+		"icao": "DAUU"
+	},
+	{
+		"name": "Abdelhafid Boussouf Bou Chekif Airport",
+		"city": "Tiaret",
+		"country": "Algeria",
+		"iata": "TID",
+		"icao": "DAOB"
+	},
+	{
+		"name": "Timimoun Airport",
+		"city": "Timimoun",
+		"country": "Algeria",
+		"iata": "TMX",
+		"icao": "DAUT"
+	},
+	{
+		"name": "Tindouf Airport",
+		"city": "Tindouf",
+		"country": "Algeria",
+		"iata": "TIN",
+		"icao": "DAOF"
+	},
+	{
+		"name": "Sidi Mahdi Airport",
+		"city": "Touggourt",
+		"country": "Algeria",
+		"iata": "TGR",
+		"icao": "DAUK"
 	},
 	{
 		"name": "Borg El Arab International Airport",
