@@ -45,6 +45,7 @@ body {
 	width: 20rem;
 	height: 24rem;
 	border: solid 4px #00000000;
+	transition: border-color 0.5s ease;
 }
 
 .card p {
