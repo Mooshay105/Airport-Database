@@ -24,7 +24,7 @@ function App() {
 				<div className="cards">
 					{airports
 						.filter((airport) => {
-							return airport.name.toLowerCase().startsWith(searchQuery.toLowerCase()) || airport.iata.toLowerCase().startsWith(searchQuery.toLowerCase());
+							return airport.name.toLowerCase().startsWith(searchQuery.toLowerCase()) || airport.iata.toLowerCase().startsWith(searchQuery.toLowerCase()) || airport.icao.toLowerCase().startsWith(searchQuery.toLowerCase()) || airport.state.toLowerCase().startsWith(searchQuery.toLowerCase()) || airport.country.toLowerCase().startsWith(searchQuery.toLowerCase());
 						})
 						.map((airport) => {
 							const imageUrl = imgURLs[airport.country as keyof typeof imgURLs];
