@@ -47,6 +47,10 @@ body {
 	border: solid 4px #00000000;
 }
 
+.card p {
+	margin: 10px;
+}
+
 .card:hover {
 	border: solid 4px #ffffff;
 	transition: border-color 0.5s ease;

@@ -1,6 +1,6 @@
 interface AirportCardProps {
 	airportName: string;
-	city: string;
+	state: string;
 	country: string;
 	iataCode: string;
 	icaoCode: string;
@@ -9,14 +9,14 @@ interface AirportCardProps {
 	searchQuery: string;
 }
 
-function AirportCard({ airportName, city, country, iataCode, icaoCode, imgURL, link, searchQuery }: AirportCardProps) {
+function AirportCard({ airportName, state, country, iataCode, icaoCode, imgURL, link, searchQuery }: AirportCardProps) {
 	return (
 		<div className="card" onClick={() => window.open(link, "_blank")}>
 			<img src={imgURL} draggable="false" />
 			<div className="content">
 				<h2 dangerouslySetInnerHTML={{ __html: selectivelyBoldText(airportName, searchQuery, true) }} className="h2NotBold" />
 				<p>
-					{city}, {country}
+					{state}, {country}
 				</p>
 				<p>
 					IATA Code: <span dangerouslySetInnerHTML={{ __html: selectivelyBoldText(iataCode, searchQuery) }} />
