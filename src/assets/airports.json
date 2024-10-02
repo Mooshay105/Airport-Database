@@ -18242,6 +18242,41 @@
 		"icao": "ZKPY"
 	},
 	{
+		"name": "Orang Airport",
+		"state": "Hamgyong-bukto",
+		"country": "North Korea",
+		"iata": "RGO",
+		"icao": "ZKHM"
+	},
+	{
+		"name": "Sondok Airport",
+		"state": "Hwanghae-namdo",
+		"country": "North Korea",
+		"iata": "DSO",
+		"icao": "ZKSD"
+	},
+	{
+		"name": "Wonsan Kalma International Airport",
+		"state": "Kangwon-do",
+		"country": "North Korea",
+		"iata": "WOS",
+		"icao": "ZKWS"
+	},
+	{
+		"name": "Uiju Airfield",
+		"state": "P'yongan-bukto",
+		"country": "North Korea",
+		"iata": "UJU",
+		"icao": "ZKUJ"
+	},
+	{
+		"name": "Samjiyon Airport",
+		"state": "Ryanggang-do",
+		"country": "North Korea",
+		"iata": "YJS",
+		"icao": "ZKSE"
+	},
+	{
 		"name": "Gimhae International Airport",
 		"state": "Busan-gwangyeoksi",
 		"country": "South Korea",
@@ -18289,41 +18324,6 @@
 		"country": "South Korea",
 		"iata": "YNY",
 		"icao": "RKNY"
-	},
-	{
-		"name": "Orang Airport",
-		"state": "Hamgyong-bukto",
-		"country": "North Korea",
-		"iata": "RGO",
-		"icao": "ZKHM"
-	},
-	{
-		"name": "Sondok Airport",
-		"state": "Hwanghae-namdo",
-		"country": "North Korea",
-		"iata": "DSO",
-		"icao": "ZKSD"
-	},
-	{
-		"name": "Wonsan Kalma International Airport",
-		"state": "Kangwon-do",
-		"country": "North Korea",
-		"iata": "WOS",
-		"icao": "ZKWS"
-	},
-	{
-		"name": "Uiju Airfield",
-		"state": "P'yongan-bukto",
-		"country": "North Korea",
-		"iata": "UJU",
-		"icao": "ZKUJ"
-	},
-	{
-		"name": "Samjiyon Airport",
-		"state": "Ryanggang-do",
-		"country": "North Korea",
-		"iata": "YJS",
-		"icao": "ZKSE"
 	},
 	{
 		"name": "Jungwon Air Base",
@@ -18447,7 +18447,7 @@
 	{
 		"name": "Jeongseok Airport",
 		"state": "Jeju-teukbyeoljachido",
-		"country": "Korea (South)",
+		"country": "South Korea",
 		"iata": "JDG",
 		"icao": "RKPD"
 	},
