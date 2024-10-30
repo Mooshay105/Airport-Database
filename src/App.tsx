@@ -15,7 +15,7 @@ function App() {
 			<div className="App">
 				<h1 className="title">Airport Database</h1>
 				<div className="searchBarContainer">
-					<input value={searchQuery} type="text" placeholder="🔎 Search Airport Name Or IATA Code" onChange={(event) => setSearchQuery(event.target.value)} className="searchBar" />
+					<input value={searchQuery} type="text" placeholder="Search" onChange={(event) => setSearchQuery(event.target.value)} className="searchBar" />
 					<button className="clearButton" onClick={() => setSearchQuery("")}>
 						clear
 					</button>

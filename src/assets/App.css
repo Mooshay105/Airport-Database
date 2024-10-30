@@ -41,20 +41,20 @@ body {
 	align-items: center;
 	border-radius: 15px;
 	padding: 0;
-	margin: 1rem;
+	margin: 10px;
 	width: 20rem;
 	height: 24rem;
 	border: solid 4px #00000000;
 	transition: border-color 0.5s ease;
 }
 
-.card p {
-	margin: 10px;
-}
-
 .card:hover {
 	border: solid 4px #ffffff;
 	transition: border-color 0.5s ease;
+}
+
+.card p {
+	margin: 10px;
 }
 
 .card img {
@@ -88,6 +88,7 @@ b {
 
 .downloadButton {
 	background-color: #007bff;
+	margin-bottom: 2rem;
 	color: #fff;
 	border: none;
 	padding: 5px 50px;
@@ -132,14 +133,16 @@ b {
 	padding: 0.5rem;
 	margin: 0.5rem;
 	border-radius: 5px;
-	width: 26.5rem;
+	max-width: 26.5rem;
+	width: calc(100vw - 80px - 30px);
 }
 
 .clearButton {
 	background-color: #ffffff;
 	color: #000000;
 	border: none;
-	padding: 5px 50px;
+	padding: 5px;
+	width: 80px;
 	border-radius: 10px;
 	cursor: pointer;
 	font-size: larger;
@@ -155,4 +158,5 @@ b {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
+	max-width: calc(100vw - 20px);
 }
