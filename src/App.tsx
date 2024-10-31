@@ -13,8 +13,7 @@ function App() {
 	useEffect(() => {
 		async function loadAirports() {
 			const response = await fetch("./src/assets/airports.json");
-			const data = await response.json();
-			setAirports(data);
+			setAirports(await response.json());
 		}
 		loadAirports();
 	}, []);
@@ -23,7 +22,7 @@ function App() {
 		return airports.filter((airport) => {
 			return airport.name.toLowerCase().startsWith(searchQuery.toLowerCase()) || airport.iata.toLowerCase().startsWith(searchQuery.toLowerCase());
 		});
-	}, [airports, searchQuery]); // Dependency array includes airports and searchQuery
+	}, [airports, searchQuery]);
 
 	return (
 		<div className="App">
