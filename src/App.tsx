@@ -31,7 +31,7 @@ function App() {
 							return <AirportCard key={airport.iata} airportName={airport.name} state={airport.state} country={airport.country} iataCode={airport.iata} icaoCode={airport.icao} imgURL={imageUrl} link={`https://www.google.com/search?q=${airport.name},${airport.state},${airport.country}`} searchQuery={searchQuery} />;
 						})}
 				</div>
-				<p>v1.51</p>
+				<p>v1.47</p>
 				<TopButton />
 			</div>
 		</>
