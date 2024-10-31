@@ -20174,6 +20174,20 @@
 		"icao": "UBEE"
 	},
 	{
+		"name": "Clayton J. Lloyd International Airport",
+		"state": "Anguilla",
+		"country": "Anguilla",
+		"iata": "AXA",
+		"icao": "TQPF"
+	},
+	{
+		"name": "Queen Beatrix International Airport",
+		"state": "Aruba",
+		"country": "Aruba",
+		"iata": "AUA",
+		"icao": "TNCA"
+	},
+	{
 		"name": "Borg El Arab Airport",
 		"state": "Al Iskandariyah",
 		"country": "Egypt",
@@ -21285,20 +21299,6 @@
 		"country": "Zimbabwe",
 		"iata": "BUQ",
 		"icao": "FVBU"
-	},
-	{
-		"name": "Clayton J. Lloyd International Airport",
-		"state": "Anguilla",
-		"country": "Anguilla",
-		"iata": "AXA",
-		"icao": "TQPF"
-	},
-	{
-		"name": "Queen Beatrix International Airport",
-		"state": "Aruba",
-		"country": "Aruba",
-		"iata": "AUA",
-		"icao": "TNCA"
 	},
 	{
 		"name": "Lynden Pindling International Airport",
