@@ -4,19 +4,11 @@ import AirportCard from "./components/AirportCard";
 import DownloadButton from "./components/DownloadButton";
 import TopButton from "./components/TopButton";
 import imgURLs from "./assets/imgURLs.json";
+import airports from "./assets/airports.json";
 import "./assets/App.css";
 
 function App() {
 	const [searchQuery, setSearchQuery] = useState("");
-	const [airports, setAirports] = useState<any[]>([]);
-
-	useEffect(() => {
-		async function loadAirports() {
-			const response = await fetch("./src/assets/airports.json");
-			setAirports(await response.json());
-		}
-		loadAirports();
-	}, []);
 
 	const filteredAirports = useMemo(() => {
 		return airports.filter((airport) => {
